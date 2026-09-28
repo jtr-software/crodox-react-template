@@ -1,0 +1,1104 @@
+{
+  "Footer": {
+    "role": "Softwareentwicklung nachhaltig verändern.",
+    "socialLinks": {
+      "github": "GitHub-Profil",
+      "linkedin": "LinkedIn-Profil",
+      "phone": "Anrufen",
+      "email": "E-Mail senden"
+    },
+    "links": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "imprint": "Impressum"
+    },
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "CookieConsent": {
+    "message": "Wir verwenden Cookies, um die Website zu verbessern. Analyse-Cookies (Google Analytics) werden nur mit Ihrer Einwilligung aktiviert. Mit Klick auf 'Alle akzeptieren' bestätigen Sie, dass Sie unsere <privacyLink>Datenschutzerklärung</privacyLink> gelesen haben und mindestens 16 Jahre alt sind.",
+    "accept": "Alle akzeptieren",
+    "reject": "Nur notwendige"
+  },
+  "ConsentCheckbox": {
+    "label": "Ich habe die <privacyLink>Datenschutzerklärung</privacyLink> gelesen und akzeptiere die <termsLink>Nutzungsbedingungen</termsLink>. Ich bestätige, dass ich mindestens 16 Jahre alt bin.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "required": "Bitte stimmen Sie den Bedingungen zu, um fortzufahren."
+  },
+  "PrivacyPolicy": {
+    "title": "Datenschutzerklärung",
+    "content": "Stand: 7 Juni 2026\n\nDatenschutzerklärung\n\n1. Verantwortlicher\n\nVerantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:\n\nCrodox Software GmbH\nAn der Mauer 4\n73479 Ellwangen/Jagst\nDeutschland\ninfo@crodox.com\n\nWenn Sie Fragen zum Datenschutz haben oder Ihre Rechte ausüben möchten, können Sie uns jederzeit über die oben angegebene E-Mail-Adresse kontaktieren.\n\n2. Allgemeine Informationen zur Datenverarbeitung\n\nWir verarbeiten personenbezogene Daten nur, soweit dies erforderlich ist, um unsere Website und Dienste bereitzustellen, Anfragen zu bearbeiten, gegebenenfalls Benutzerkonten zu verwalten, unseren Newsletter zu versenden, die Nutzung der Website zu analysieren oder gesetzlichen Verpflichtungen nachzukommen.\n\nPersonenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.\n\nDie Verarbeitung erfolgt insbesondere auf Grundlage von:\n\n- Art. 6 Abs. 1 lit. a DSGVO, wenn Sie Ihre Einwilligung erteilt haben;\n- Art. 6 Abs. 1 lit. b DSGVO, wenn die Verarbeitung zur Erfüllung eines Vertrags oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist;\n- Art. 6 Abs. 1 lit. c DSGVO, wenn wir gesetzlich zur Verarbeitung von Daten verpflichtet sind; und\n- Art. 6 Abs. 1 lit. f DSGVO, wenn wir ein berechtigtes Interesse an der Verarbeitung haben und Ihre Interessen oder Grundrechte dieses Interesse nicht überwiegen.\n\nWenn wir Cookies oder vergleichbare Technologien verwenden, beachten wir außerdem die Anforderungen des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (TDDDG). Technisch notwendige Speicherung oder der Zugriff darauf erfolgt auf Grundlage von § 25 Abs. 2 TDDDG. Nicht erforderliche Speicherung oder Zugriffe, insbesondere zu Analyse- oder Marketingzwecken, erfolgen auf Grundlage Ihrer Einwilligung gemäß § 25 Abs. 1 TDDDG.\n\n3. Welche personenbezogenen Daten wir erheben\n\nJe nachdem, wie Sie unsere Website und Dienste nutzen, können wir die folgenden Kategorien personenbezogener Daten verarbeiten:\n\n- Kontaktdaten, wie Ihr Name und Ihre E-Mail-Adresse;\n- Kontodaten, sofern Benutzerkonten angeboten werden, wie E-Mail-Adresse, Zugangsdaten, Benutzername, Kontoeinstellungen und freiwillige Profilinformationen;\n- Kommunikationsdaten, wie der Inhalt von Nachrichten, die Sie uns über Kontaktformulare oder per E-Mail senden;\n- Newsletter-Daten, wie E-Mail-Adresse, Name, sofern angegeben, Zeitpunkt der Registrierung, IP-Adresse bei der Registrierung, Bestätigungsstatus und Newsletter-Interaktionsdaten, sofern eine Einwilligung erteilt wurde;\n- Technische Daten, wie IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seiten, Referrer-URL, Browsertyp, Betriebssystem, Geräteinformationen und Logfile-Daten;\n- Nutzungs- und Analysedaten, sofern Sie Ihre Einwilligung erteilt haben, wie besuchte Seiten, Besuchsdauer, Klickverhalten, ungefähre Standortdaten, Geräte- und Browserinformationen sowie Interaktionen mit unserer Website;\n- Einwilligungsdaten, wie Ihre Einwilligungsentscheidungen, Zeitpunkt der Einwilligung, Einwilligungsstatus und Widerruf der Einwilligung;\n- Abrechnungs- oder vertragsbezogene Daten, falls künftig kostenpflichtige Dienste angeboten werden, wie Rechnungsadresse, Zahlungsstatus und Vertragsinformationen.\n\nWir erheben nicht absichtlich besondere Kategorien personenbezogener Daten im Sinne von Art. 9 DSGVO, es sei denn, dies ist im Einzelfall ausdrücklich erforderlich und es besteht eine gültige Rechtsgrundlage.\n\n4. Bereitstellung der Website und Server-Logfiles\n\nWenn Sie unsere Website aufrufen, werden technisch notwendige Daten verarbeitet, um die Website anzuzeigen und ihre Stabilität und Sicherheit zu gewährleisten. Dies kann insbesondere Ihre IP-Adresse, Datum und Uhrzeit des Zugriffs, aufgerufene Seiten, Referrer-URL, Browsertyp, Betriebssystem und die übertragene Datenmenge umfassen.\n\nRechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der sicheren, stabilen und fehlerfreien Bereitstellung unserer Website. Soweit hierfür technisch notwendige Cookies oder vergleichbare Technologien verwendet werden, erfolgt dies auf Grundlage von § 25 Abs. 2 TDDDG.\n\nWir verwenden Vercel Inc. als Hosting-Anbieter. Vercel hostet und liefert unsere Website aus, einschließlich Frontend-Inhalten, statischen Assets und technischen Infrastrukturkomponenten, die für den Betrieb der Website erforderlich sind. In diesem Zusammenhang kann Vercel technische Daten, Server-Logfiles, IP-Adressen und Anfrage-Metadaten verarbeiten.\n\nSoweit Vercel personenbezogene Daten in unserem Auftrag verarbeitet, erfolgt diese Verarbeitung auf Grundlage der von Vercel bereitgestellten geltenden Datenschutzbedingungen. Wir werden mit Vercel einen Auftragsverarbeitungsvertrag oder ein Data Processing Addendum abschließen, sofern dies nach Art. 28 DSGVO erforderlich ist.\n\nServer-Logfiles werden grundsätzlich nur so lange gespeichert, wie dies erforderlich ist, um die Sicherheit, Stabilität und ordnungsgemäße Funktion der Website zu gewährleisten. Eine längere Speicherung kann erfolgen, wenn dies zur Untersuchung von Sicherheitsvorfällen, zur Verhinderung von Missbrauch, zur Erfüllung gesetzlicher Verpflichtungen oder zur Begründung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist.\n\n5. Kontaktformular\n\nWenn Sie uns über das Kontaktformular kontaktieren, verarbeiten wir die von Ihnen eingegebenen Daten, insbesondere Ihren Namen, Ihre E-Mail-Adresse und den Nachrichteninhalt, um Ihre Anfrage zu bearbeiten und zu beantworten.\n\nRechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, wenn Ihre Anfrage mit einem Vertrag oder vorvertraglichen Maßnahmen zusammenhängt. In allen anderen Fällen erfolgt die Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der effizienten Bearbeitung von Anfragen und der Kommunikation mit Nutzern unserer Website.\n\nFür die technische Verarbeitung und den Versand von Nachrichten aus dem Kontaktformular verwenden wir Resend, einen Dienst der Plus Five Five, Inc., USA. Die im Kontaktformular eingegebenen Daten und technische E-Mail-Metadaten können an Resend übermittelt und dort verarbeitet werden.\n\nSoweit Resend personenbezogene Daten in unserem Auftrag verarbeitet, erfolgt diese Verarbeitung auf Grundlage der von Resend bereitgestellten geltenden Datenschutzbedingungen. Wir werden mit Resend einen Auftragsverarbeitungsvertrag oder ein Data Processing Addendum abschließen, sofern dies nach Art. 28 DSGVO erforderlich ist.\n\nEine Verarbeitung personenbezogener Daten in den USA kann nicht ausgeschlossen werden. Soweit personenbezogene Daten in die USA oder andere Drittländer übermittelt werden, stützen wir uns auf geeignete Garantien wie einen Angemessenheitsbeschluss, eine Zertifizierung nach dem EU-US Data Privacy Framework, Standardvertragsklauseln der Europäischen Kommission oder einen anderen gültigen Übermittlungsmechanismus nach Art. 44 ff. DSGVO.\n\nWir speichern Kontaktanfragen nur so lange, wie dies zur Bearbeitung Ihrer Anfrage erforderlich ist. In der Regel werden Kontaktanfragen nach endgültigem Abschluss der Anfrage gelöscht, es sei denn, gesetzliche Aufbewahrungspflichten gelten oder eine längere Speicherung ist zur Begründung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.\n\n6. Newsletter\n\nSie können unseren Newsletter auf unserer Website abonnieren. Für die Anmeldung verarbeiten wir insbesondere Ihre E-Mail-Adresse. Je nach Formular können außerdem Ihr Name, der Zeitpunkt der Anmeldung, Ihre IP-Adresse und Informationen zur Bestätigung Ihrer Anmeldung verarbeitet werden.\n\nDer Newsletter dient dazu, Ihnen Informationen, Updates und Neuigkeiten über Crodox, unsere Produkte, Entwicklungstools und verwandte Themen zu senden.\n\nDas Abonnement des Newsletters erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO. Soweit technisch notwendige Informationen im Zusammenhang mit der Anmeldung oder dem Versand gespeichert oder abgerufen werden, erfolgt dies zusätzlich auf Grundlage von § 25 Abs. 2 TDDDG.\n\nSoweit im Newsletter Analyse- oder Tracking-Technologien verwendet werden, zum Beispiel zur Messung von Öffnungs- oder Klickraten, erfolgt dies nur auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO und, soweit erforderlich, § 25 Abs. 1 TDDDG.\n\nFür den Versand und die Verwaltung unseres Newsletters verwenden wir Mailchimp, einen Dienst der The Rocket Science Group LLC d/b/a Mailchimp, USA. Wenn Sie den Newsletter abonnieren, werden Ihre Daten an Mailchimp übermittelt und dort verarbeitet. Mailchimp kann insbesondere Ihre E-Mail-Adresse, Registrierungsdaten, technische Informationen und Interaktionen mit dem Newsletter verarbeiten.\n\nSoweit Mailchimp personenbezogene Daten in unserem Auftrag verarbeitet, erfolgt diese Verarbeitung auf Grundlage der von Mailchimp bereitgestellten geltenden Datenschutzbedingungen. Wir werden mit Mailchimp einen Auftragsverarbeitungsvertrag oder ein Data Processing Addendum abschließen, sofern dies nach Art. 28 DSGVO erforderlich ist.\n\nMailchimp kann personenbezogene Daten auch in den USA verarbeiten. Mailchimp gibt an, unter anderem das EU-US Data Privacy Framework und Standardvertragsklauseln im Rahmen seiner Datenschutzbedingungen für Datenübermittlungen zu verwenden.\n\nSie können Ihre Einwilligung zum Erhalt des Newsletters jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie den Abmeldelink in jeder Newsletter-E-Mail verwenden oder uns direkt kontaktieren.\n\nNach Ihrer Abmeldung wird Ihre E-Mail-Adresse grundsätzlich aus der aktiven Newsletter-Verteilerliste gelöscht. Wir können Nachweise über die Anmeldung speichern, einschließlich Einwilligungsstatus, Anmeldezeitpunkt, Bestätigungszeitpunkt und IP-Adresse, soweit dies erforderlich ist, um eine zuvor erteilte Einwilligung zu dokumentieren oder Rechtsansprüche abzuwehren.\n\n7. Benutzerkonto und Registrierung\n\nWenn Sie ein Benutzerkonto für unsere Dienste erstellen, verarbeiten wir die Daten, die zur Erstellung, Verwaltung, Sicherung und Bereitstellung des Kontos erforderlich sind. Dies kann insbesondere Ihre E-Mail-Adresse, Zugangsdaten, Benutzername, technische Protokolldaten, Kontoeinstellungen und alle zusätzlichen freiwilligen Informationen umfassen, die Sie bereitstellen.\n\nRechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit die Verarbeitung für die Erstellung, Verwaltung und Nutzung des Benutzerkontos und der damit verbundenen Dienste erforderlich ist. Soweit die Verarbeitung auf Ihrer Einwilligung beruht, ist Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO. Soweit die Verarbeitung für Sicherheit, Betrugsprävention oder Serviceverbesserung erforderlich ist, kann Rechtsgrundlage Art. 6 Abs. 1 lit. f DSGVO sein.\n\nUnser Dienst richtet sich nicht ausdrücklich an Kinder unter 16 Jahren. Minderjährige dürfen ein Konto nur erstellen und nutzen, wenn sie dazu rechtlich berechtigt sind oder ihre gesetzlichen Vertreter einer solchen Nutzung zugestimmt haben.\n\nKontodaten werden gespeichert, solange das Benutzerkonto besteht. Nach Löschung des Kontos werden die Daten grundsätzlich gelöscht, es sei denn, gesetzliche Aufbewahrungspflichten gelten oder eine längere Speicherung ist zur Begründung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.\n\n8. Google Analytics\n\nWir verwenden Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google Analytics hilft uns zu verstehen, wie Besucher unsere Website nutzen, damit wir Inhalte, Funktionalität und Nutzererlebnis verbessern können.\n\nGoogle Analytics kann Cookies und vergleichbare Technologien verwenden und Informationen über die Nutzung unserer Website verarbeiten. Dies kann insbesondere besuchte Seiten, Besuchsdauer, Klickverhalten, Referrer-URL, Geräte- und Browserinformationen, ungefähre Standortdaten und IP-Adresse umfassen. Die Verarbeitung kann auch durch Google-Unternehmen außerhalb der Europäischen Union oder des Europäischen Wirtschaftsraums erfolgen, insbesondere in den USA.\n\nGoogle Analytics wird nur verwendet, wenn Sie zuvor über unser Einwilligungsbanner Ihre Einwilligung erteilt haben. Rechtsgrundlage für den Zugriff auf Informationen auf Ihrem Gerät oder die Speicherung von Informationen auf Ihrem Gerät ist § 25 Abs. 1 TDDDG. Rechtsgrundlage für die anschließende Verarbeitung personenbezogener Daten ist Art. 6 Abs. 1 lit. a DSGVO.\n\nSie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über die Cookie- oder Einwilligungseinstellungen auf unserer Website widerrufen. Solange keine Einwilligung erteilt wurde, wird Google Analytics nicht zu Analysezwecken geladen.\n\nGoogle verlangt bestimmte Informationen und Einwilligungen für Nutzer im Europäischen Wirtschaftsraum, im Vereinigten Königreich und in der Schweiz, wenn Google-Produkte verwendet werden. Soweit erforderlich, übermitteln wir Ihre Einwilligungsentscheidung an Google, insbesondere im Rahmen des Google Consent Mode. Dies kann Informationen darüber umfassen, ob eine Einwilligung für Analytics Storage, Ad Storage, Ad User Data und Ad Personalization erteilt oder abgelehnt wurde, abhängig von der verwendeten Konfiguration.\n\nIn diesem Zusammenhang kann Google Einwilligungsinformationen und damit verbundene technische Informationen als eigenständig Verantwortlicher verarbeiten. Weitere Informationen zu den Verarbeitungstätigkeiten von Google finden Sie in den Datenschutzinformationen von Google und den für Google Analytics geltenden Bedingungen.\n\nAnalysedaten werden gemäß den in Google Analytics konfigurierten Aufbewahrungseinstellungen gespeichert. Wir konfigurieren Aufbewahrungsfristen datenschutzfreundlich und speichern Analysedaten nur so lange, wie dies für Analyse und Websiteverbesserung erforderlich ist, sofern Sie Ihre Einwilligung nicht früher widerrufen oder technisch eine kürzere Frist angewendet wird.\n\n9. Cookies und vergleichbare Technologien\n\nUnsere Website kann Cookies und vergleichbare Technologien verwenden. Cookies sind kleine Informationseinheiten, die auf Ihrem Gerät gespeichert werden. Vergleichbare Technologien können Informationen auf Ihrem Gerät speichern oder darauf zugreifen.\n\nTechnisch notwendige Cookies und Technologien werden verwendet, um die Website bereitzustellen, Sicherheitsfunktionen zu ermöglichen, Datenschutzeinstellungen zu speichern oder von Ihnen angeforderte Funktionen auszuführen. Rechtsgrundlage ist § 25 Abs. 2 TDDDG und, soweit personenbezogene Daten verarbeitet werden, Art. 6 Abs. 1 lit. f DSGVO.\n\nNicht erforderliche Cookies und Technologien, insbesondere zu Analyse- oder Marketingzwecken, werden nur nach Ihrer vorherigen Einwilligung verwendet. Rechtsgrundlage ist § 25 Abs. 1 TDDDG und Art. 6 Abs. 1 lit. a DSGVO.\n\nSie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über unsere Cookie- oder Einwilligungseinstellungen widerrufen.\n\nEinwilligungsnachweise können für die Dauer gespeichert werden, die erforderlich ist, um Ihre Einwilligungsentscheidungen zu dokumentieren und gesetzlichen Rechenschaftspflichten nachzukommen. Wird eine Einwilligung widerrufen, wird der Widerruf dokumentiert, um sicherzustellen, dass Ihre Entscheidung beachtet wird.\n\n10. Minderjährige\n\nUnsere Website und Dienste richten sich nicht an Kinder unter 16 Jahren. Wir fordern Kinder unter 16 Jahren nicht wissentlich dazu auf, uns personenbezogene Daten bereitzustellen.\n\nSoweit wir personenbezogene Daten auf Grundlage einer Einwilligung verarbeiten, insbesondere für Newsletter-Abonnements, Analyse- oder Marketing-Cookies oder vergleichbare freiwillige Funktionen, kann eine wirksame Einwilligung grundsätzlich nur von Nutzern erteilt werden, die mindestens 16 Jahre alt sind. Nutzer unter 16 Jahren dürfen eine solche Einwilligung nur erteilen, wenn diese von ihren gesetzlichen Vertretern erteilt oder genehmigt wurde.\n\nJe nachdem, wie Minderjährige unsere Website oder Dienste nutzen, können die verarbeiteten personenbezogenen Daten Kontaktdaten, E-Mail-Adresse, Newsletter-Registrierungsdaten, Kontodaten, technische Daten, Kommunikationsdaten und Einwilligungsdaten umfassen. Wir verarbeiten solche Daten nur, wenn eine gültige Rechtsgrundlage besteht, wie nachweisbare elterliche Einwilligung, Vertragserfüllung, soweit rechtlich zulässig, Erfüllung gesetzlicher Verpflichtungen oder berechtigte Interessen, die die Rechte und Interessen des Minderjährigen nicht überwiegen.\n\nWenn wir erfahren, dass personenbezogene Daten eines Kindes unter 16 Jahren ohne die erforderliche Einwilligung der gesetzlichen Vertreter bereitgestellt wurden und keine andere Rechtsgrundlage gilt, werden wir die betreffenden Daten löschen.\n\nPersonenbezogene Daten von Minderjährigen werden nur so lange gespeichert, wie dies für den jeweiligen Zweck erforderlich ist. Newsletter-Daten werden nur so lange gespeichert, wie das Abonnement besteht, es sei denn, ein Nachweis der Einwilligung muss aufbewahrt werden. Kontodaten werden nur so lange gespeichert, wie das Konto besteht, es sei denn, gesetzliche Aufbewahrungspflichten oder Rechtsansprüche erfordern eine längere Speicherung. Kontaktanfragen werden nur so lange gespeichert, wie dies zur Bearbeitung der Anfrage und für eine angemessene Dokumentation erforderlich ist.\n\nEltern oder gesetzliche Vertreter können uns jederzeit unter info@crodox.com kontaktieren, wenn sie der Ansicht sind, dass ihr Kind uns personenbezogene Daten ohne ihre Einwilligung bereitgestellt hat. Sie können Auskunft über die verarbeiteten Daten verlangen und, soweit gesetzlich anwendbar, Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch gegen die Verarbeitung verlangen.\n\n11. Externe Links\n\nUnsere Website kann Links zu externen Websites enthalten. Wenn Sie auf einen externen Link klicken, verlassen Sie unsere Website. Die jeweiligen Anbieter sind allein für die Verarbeitung personenbezogener Daten auf den verlinkten Websites verantwortlich. Bitte beachten Sie deren jeweilige Datenschutzerklärungen.\n\n12. Empfänger personenbezogener Daten\n\nWir geben personenbezogene Daten nur weiter, wenn dies zur Bereitstellung unserer Website und Dienste erforderlich ist, wenn Sie Ihre Einwilligung erteilt haben, wenn eine gesetzliche Verpflichtung besteht oder wenn wir ein berechtigtes Interesse haben.\n\nEmpfänger personenbezogener Daten können insbesondere sein:\n\n- Hosting- und Infrastruktur Anbieter, einschließlich Vercel;\n- Resend für die technische Verarbeitung und den Versand von Kontaktformularnachrichten;\n- Mailchimp für den Newsletter-Versand und die Newsletter-Verwaltung;\n- Google Analytics oder Google Ireland Limited für Website-Analysen nach Einwilligung;\n- Cookie- oder Einwilligungsmanagement-Anbieter, soweit verwendet;\n- technische Dienstleister und Auftragsverarbeiter;\n- Zahlungs- oder Abrechnungsanbieter, falls künftig kostenpflichtige Dienste angeboten werden;\n- Behörden, Gerichte, Steuerberater, Wirtschaftsprüfer oder Rechtsberater, soweit gesetzlich erforderlich oder zur Rechtsdurchsetzung notwendig.\n\n13. Übermittlungen in Drittländer\n\nEinige der von uns verwendeten Dienstleister haben ihren Sitz in den USA oder können personenbezogene Daten in den USA oder anderen Drittländern verarbeiten. Dort kann ein anderes Datenschutzniveau gelten als in der Europäischen Union.\n\nSoweit personenbezogene Daten in Drittländer übermittelt werden, erfolgt dies nur, wenn eine geeignete Rechtsgrundlage besteht, wie ein Angemessenheitsbeschluss, eine Zertifizierung nach dem EU-US Data Privacy Framework, Standardvertragsklauseln der Europäischen Kommission, Ihre ausdrückliche Einwilligung oder ein anderer gültiger Übermittlungsmechanismus nach Art. 44 ff. DSGVO.\n\n14. Speicherdauer\n\nWir speichern personenbezogene Daten nur so lange, wie dies für die jeweiligen Zwecke erforderlich ist. Danach werden die Daten gelöscht, es sei denn, gesetzliche Aufbewahrungspflichten gelten oder eine längere Speicherung ist zur Begründung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich.\n\nDie folgenden Aufbewahrungsgrundsätze gelten:\n\n- Server-Logfiles werden grundsätzlich nur so lange gespeichert, wie dies für Sicherheit, Stabilität, Fehlerbehebung und Missbrauchsprävention erforderlich ist.\n- Kontaktformularanfragen werden grundsätzlich gespeichert, bis die Anfrage vollständig bearbeitet wurde, sowie für einen angemessenen Dokumentationszeitraum danach.\n- Newsletter-Daten werden gespeichert, solange Sie den Newsletter abonniert haben.\n- Nach der Abmeldung vom Newsletter wird Ihre E-Mail-Adresse grundsätzlich aus der aktiven Verteilerliste entfernt. Ein Nachweis der Einwilligung kann aufbewahrt werden, soweit dies zur Dokumentation der Einwilligung oder zur Verteidigung gegen Rechtsansprüche erforderlich ist.\n- Einwilligungsnachweise werden so lange gespeichert, wie dies erforderlich ist, um die Einhaltung gesetzlicher Rechenschaftspflichten nachzuweisen.\n- Kontodaten werden gespeichert, solange das Konto besteht. Nach Löschung des Kontos werden Daten gelöscht, es sei denn, gesetzliche Aufbewahrungspflichten oder Rechtsansprüche erfordern eine längere Speicherung.\n- Analysedaten werden gemäß den in Google Analytics konfigurierten Aufbewahrungseinstellungen und nur im Rahmen Ihrer Einwilligung verarbeitet.\n- Daten, die nach Handels- oder Steuerrecht erforderlich sind, können für die gesetzlichen Aufbewahrungsfristen gespeichert werden.\n- Daten, die für Rechtsansprüche relevant sind, können für die Dauer der geltenden Verjährungsfristen gespeichert werden.\n\n15. Automatisierte Entscheidungsfindung und Profiling\n\nWir führen keine automatisierte Entscheidungsfindung oder Profiling im Sinne von Art. 22 DSGVO durch.\n\n16. Ihre Rechte\n\nVorbehaltlich der gesetzlichen Voraussetzungen haben Sie die folgenden Rechte:\n\n- Recht auf Auskunft über die von uns verarbeiteten personenbezogenen Daten;\n- Recht auf Berichtigung unrichtiger oder unvollständiger Daten;\n- Recht auf Löschung Ihrer personenbezogenen Daten;\n- Recht auf Einschränkung der Verarbeitung;\n- Recht auf Datenübertragbarkeit;\n- Recht auf Widerspruch gegen eine Verarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder Art. 6 Abs. 1 lit. f DSGVO;\n- Recht auf Widerruf einer Einwilligung mit Wirkung für die Zukunft;\n- Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde.\n\nWenn Sie eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der vor dem Widerruf erfolgten Verarbeitung bleibt unberührt.\n\nZur Ausübung Ihrer Rechte können Sie uns unter info@crodox.com kontaktieren.\n\n17. Recht auf Beschwerde bei einer Aufsichtsbehörde\n\nWenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzrecht verstößt, haben Sie das Recht, Beschwerde bei einer Datenschutzaufsichtsbehörde einzulegen. Insbesondere können Sie sich an die Aufsichtsbehörde wenden, die für Ihren gewöhnlichen Aufenthaltsort, Ihren Arbeitsplatz oder den Ort des mutmaßlichen Verstoßes zuständig ist.\n\n18. Datensicherheit\n\nWir treffen angemessene technische und organisatorische Maßnahmen, um personenbezogene Daten gegen Verlust, Missbrauch, unbefugten Zugriff, Offenlegung, Veränderung und Zerstörung zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend angepasst.\n\n19. Änderungen dieser Datenschutzerklärung\n\nWir können diese Datenschutzerklärung ändern, wenn sich gesetzliche Anforderungen, technische Funktionen oder unsere Datenverarbeitungstätigkeiten ändern. Die jeweils aktuelle Version ist auf unserer Website verfügbar."
+  },
+  "TermsOfService": {
+    "title": "Nutzungsbedingungen",
+    "content": "Stand: 7 Juni 2026\n\n1. Geltungsbereich und Anbieter\nDiese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung der Website der Crodox Software GmbH unter crodox.com (die „Website“), einschließlich aller darüber bereitgestellten Inhalte, Funktionen und Dienste, sowie die Nutzung von Crodox-Softwareprodukten oder -Tools, die direkt über die Website zugänglich sind, ohne dass ein separater Download oder eine Installation erforderlich ist. Diese Bedingungen gelten für die gesamte Website, für jede webbasierte Nutzung von Crodox-Produkten sowie für jede E-Mail- oder sonstige Kommunikation zwischen Ihnen und Crodox.\nDurch den Zugriff auf die Website oder deren Nutzung oder durch die Nutzung eines über die Website bereitgestellten Produkts oder Tools bestätigen Sie, dass Sie diese Bedingungen gelesen und verstanden haben und damit einverstanden sind, an sie gebunden zu sein. Wenn Sie nicht einverstanden sind, nutzen Sie die Website oder die darüber zugänglichen Dienste bitte nicht.\n\nAnbieter der Website ist:\nCrodox Software GmbH\nAn der Mauer 4, 73479 Ellwangen/Jagst, Deutschland\ninfo@crodox.com\nWeitere gesetzlich vorgeschriebene Informationen finden Sie in unserem Impressum.\n\n2. Angebotene Inhalte und Dienste\nDie Website bietet insbesondere:\n• Informationen über Crodox, Entwicklungstools und verwandte Softwarethemen\n• Informationen über unsere Produkte, Plattformen und Dienste\n• ein Kontaktformular für Anfragen und Support\n• eine Newsletter-Anmeldung für Produktupdates und Neuigkeiten\n• Inhalte rund um Softwareentwicklung und verwandte Themen\n• webbasierten Zugang zu Crodox-Softwareprodukten und -Tools ohne erforderlichen Download\n\nAlle auf der Website bereitgestellten Inhalte dienen ausschließlich allgemeinen Informationszwecken. Sie stellen keine verbindliche Beratung, kein verbindliches Angebot und keine Garantie für bestimmte Eigenschaften dar, sofern nicht ausdrücklich schriftlich etwas anderes vereinbart wurde.\n\n3. Lizenz zur Nutzung der Website und webbasierter Produkte\nCrodox gewährt Ihnen eine beschränkte, widerrufliche, nicht ausschließliche und nicht übertragbare Lizenz zum Zugriff auf die Website und zur Nutzung der Website sowie aller darüber zugänglichen Crodox-Produkte oder -Tools, ausschließlich gemäß diesen Bedingungen. Diese Lizenz umfasst kein Recht dazu:\n• die Website oder Teile davon unterzulizenzieren, zu verkaufen, zu vermieten, zu verleasen, abzutreten, zu verbreiten, zu übertragen, zu hosten, auszulagern oder anderweitig kommerziell zu verwerten\n• die Website oder deren Inhalte Dritten zu kommerziellen Zwecken zugänglich zu machen\n• Teile der Website oder eines darüber zugänglichen Produkts zu verändern, abgeleitete Werke davon zu erstellen, zu disassemblieren, zu entschlüsseln, zurückzukompilieren oder zurückzuentwickeln\n• Eigentumshinweise, einschließlich Urheberrechts- oder Markenhinweisen, von Crodox oder deren verbundenen Unternehmen, Partnern, Lieferanten oder Lizenzgebern zu entfernen, zu verändern oder unkenntlich zu machen\n\nWir behalten uns das Recht vor, Ihr Konto zu kündigen oder den Zugriff auf die Website ohne vorherige Mitteilung zu sperren, wenn Sie gegen diese Bedingungen verstoßen.\n\n4. Zulässige Nutzung und Beschränkungen\nSie verpflichten sich, die Website und ihre Dienste ausschließlich rechtmäßig und nach Treu und Glauben zu nutzen. Folgendes ist strikt untersagt:\n• die Bereitstellung falscher, irreführender oder missbräuchlicher Informationen\n• die Nutzung des Kontaktformulars für Spam, unerwünschte Werbung, schädliche Inhalte oder rechtswidrige Zwecke\n• die Umgehung oder Beeinträchtigung technischer Sicherheitsmaßnahmen\n• der Einsatz von Malware, automatisierten Angriffen, Scraping über ein zulässiges Maß hinaus oder sonstigen störenden Mitteln\n• die Verletzung von Rechten Dritter, einschließlich Urheberrechten, Markenrechten, Datenschutzrechten und Persönlichkeitsrechten\n• die Übermittlung von Inhalten, die rechtswidrig, beleidigend, diskriminierend, bedrohlich, belästigend oder anderweitig unangemessen sind\n\nWir behalten uns das Recht vor, Anfragen oder Nachrichten nicht zu bearbeiten, die missbräuchlich, rechtswidrig oder offensichtlich nicht ernst gemeint sind.\n\n5. Geistiges Eigentum\nDie Website und ihre gesamten Inhalte, Merkmale und Funktionen – einschließlich, aber nicht beschränkt auf alle Informationen, Software, Quellcodes, Texte, Grafiken, Logos, Bilder, Designs, Videos, Audiodateien, Marken sowie deren Auswahl und Anordnung – sind ausschließliches Eigentum der Crodox Software GmbH, ihrer Lizenzgeber oder sonstiger Rechteinhaber und sind nach deutschem und internationalem Urheber-, Marken-, Patent-, Geschäftsgeheimnis- und sonstigem Recht zum Schutz geistigen Eigentums geschützt.\nSie dürfen Inhalte der Website ohne vorherige schriftliche Zustimmung von Crodox weder ganz noch teilweise in irgendeiner Form oder mit irgendwelchen Mitteln kopieren, verändern, vervielfältigen, herunterladen oder verbreiten, außer soweit dies durch diese Bedingungen oder zwingendes Recht ausdrücklich gestattet ist. Jede unbefugte Nutzung ist strikt untersagt und kann Schadensersatzansprüche auslösen.\nJegliches Feedback, sämtliche Kommentare, Ideen, Verbesserungen oder Vorschläge („Vorschläge“), die Sie Crodox übermitteln, werden alleiniges und ausschließliches Eigentum von Crodox. Crodox darf solche Vorschläge für jeden Zweck frei nutzen, kopieren, verändern, veröffentlichen oder weiterverbreiten, ohne verpflichtet zu sein, Sie zu nennen oder zu vergüten.\n\n6. Kontaktformular und Newsletter\nDas Kontaktformular darf ausschließlich für berechtigte Anfragen genutzt werden. Sie sind verpflichtet, bei der Nutzung des Kontaktformulars wahrheitsgemäße Angaben zu machen und keine Rechte Dritter zu verletzen.\nWenn Sie unseren Newsletter abonnieren, erhalten Sie E-Mails mit Informationen, Updates und Neuigkeiten über Crodox und unsere Produkte. Sie können sich jederzeit über den Abmeldelink in jeder Newsletter-E-Mail oder durch direkte Kontaktaufnahme mit uns abmelden. Personenbezogene Daten, die im Zusammenhang mit dem Newsletter verarbeitet werden, unterliegen unserer Datenschutzerklärung.\n\n7. Analysen, Cookies und Tracking\nDiese Website verwendet Google Analytics, einen Webanalysedienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google Analytics verwendet Cookies und ähnliche Technologien, um Informationen darüber zu erheben und zu analysieren, wie Besucher diese Website nutzen. Die erzeugten Informationen, einschließlich Ihrer anonymisierten IP-Adresse, werden an Google-Server übertragen und dort gespeichert. Wir betreiben Google Analytics mit aktivierter IP-Anonymisierung, sodass Ihre IP-Adresse vor der Übertragung innerhalb der EU/des EWR gekürzt wird.\nWir verwenden außerdem Sitzungscookies, um Ihren Sitzungsstatus während Ihres Besuchs aufrechtzuerhalten. Sitzungscookies sind temporäre Dateien, die beim Schließen Ihres Browsers gelöscht werden und keine personenbezogenen Informationen über das hinaus speichern, was zur Aufrechterhaltung Ihrer aktiven Sitzung erforderlich ist.\nDie Rechtsgrundlage für Analyse-Cookies ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO, die über unser Cookie-Einwilligungsbanner eingeholt wird. Sie können Ihre Einwilligung jederzeit widerrufen. Sie können die Erfassung von Daten durch Google Analytics außerdem verhindern, indem Sie das Browser-Add-on unter folgender Adresse installieren: https://tools.google.com/dlpage/gaoptout.\nVollständige Einzelheiten zu den verwendeten Cookies, ihrem Zweck und ihren Aufbewahrungsfristen finden Sie in unserer Cookie-Richtlinie.\n\n8. Externe Links und Dienste Dritter\nDie Website kann Links zu externen Websites Dritter enthalten und Inhalte, Daten, Anwendungen oder Dienste Dritter („Dienste Dritter“) anzeigen, einbinden oder zugänglich machen. Für Inhalt, Verfügbarkeit, Datenschutzpraktiken, Richtigkeit, Rechtmäßigkeit und Qualität dieser Dienste sind ausschließlich die jeweiligen Drittanbieter verantwortlich.\nCrodox untersucht, überwacht oder überprüft Inhalte Dritter nicht und übernimmt keine Haftung oder Verantwortung für Dienste Dritter, unabhängig davon, ob Crodox über die Möglichkeit daraus entstehender Schäden informiert wurde. Der Zugriff auf Dienste Dritter und deren Nutzung erfolgen ausschließlich auf eigenes Risiko und unterliegen den jeweiligen Geschäftsbedingungen dieser Dritten.\nZum Zeitpunkt der Verlinkung waren für uns keine rechtswidrigen Inhalte erkennbar. Sollten uns Rechtsverletzungen bekannt werden, werden wir die entsprechenden Links unverzüglich entfernen.\n\n9. Verfügbarkeit der Website und Updates\nWir bemühen uns, die Website mit möglichst wenigen Unterbrechungen bereitzustellen. Wir garantieren jedoch keine kontinuierliche, ununterbrochene oder fehlerfreie Verfügbarkeit. Wartungsarbeiten, technische Störungen, Sicherheitsmaßnahmen oder Ereignisse außerhalb unseres Einflussbereichs können die Verfügbarkeit jederzeit einschränken.\nCrodox behält sich das Recht vor, die Website oder einzelne Funktionen oder Dienste jederzeit mit oder ohne vorherige Mitteilung zu ändern, auszusetzen, einzuschränken oder dauerhaft einzustellen, ohne Ihnen gegenüber dafür zu haften, sofern dadurch keine bestehenden vertraglichen Verpflichtungen verletzt werden.\nWir können von Zeit zu Zeit Updates, Patches, Fehlerbehebungen oder Upgrades für die Website („Updates“) veröffentlichen. Sie erklären sich damit einverstanden, dass Crodox nicht verpflichtet ist, Updates bereitzustellen oder eine bestimmte Funktion oder Funktionalität weiterhin anzubieten. Alle Updates sind integraler Bestandteil der Website und unterliegen diesen Bedingungen.\n\n10. Keine Gewährleistungen\nDie Website sowie alle darüber bereitgestellten Inhalte und Dienste werden Ihnen „WIE BESEHEN“ und „WIE VERFÜGBAR“, mit allen Mängeln und ohne Gewährleistung jeglicher Art, bereitgestellt. Soweit nach geltendem Recht zulässig, schließt Crodox ausdrücklich alle Gewährleistungen aus, gleich ob ausdrücklich, stillschweigend, gesetzlich oder anderweitig, einschließlich, aber nicht beschränkt auf stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck, Rechtsinhaberschaft und Nichtverletzung von Rechten.\nCrodox gewährleistet oder sichert nicht zu, dass: (i) die Website Ihren Anforderungen entspricht oder beabsichtigte Ergebnisse erzielt; (ii) die Website mit anderer Software, anderen Systemen oder Diensten kompatibel ist oder zusammenarbeitet; (iii) die Website unterbrechungsfrei oder fehlerfrei funktioniert; (iv) Fehler oder Mängel behoben werden; oder (v) die Website, ihre Server oder in unserem Namen versendete E-Mails frei von Viren, Malware oder sonstigen schädlichen Komponenten sind.\nInformationen über Softwareentwicklung, Tools, Plattformen oder technische Themen können sich jederzeit ändern. Nutzer sind allein dafür verantwortlich, Informationen vor der Umsetzung zu überprüfen und gegebenenfalls fachkundigen Rat einzuholen. Mündliche oder schriftliche Informationen oder Ratschläge von Crodox oder ihren Vertretern begründen keinerlei Gewährleistung.\n\n11. Haftungsbeschränkung\nCrodox haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung von Crodox oder ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Crodox haftet ebenfalls unbeschränkt für Schäden, die durch vorsätzliches oder grob fahrlässiges Verhalten verursacht wurden.\nBei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten, also Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung Nutzer regelmäßig vertrauen, ist die Haftung von Crodox auf den bei Vertragsschluss typischen und vorhersehbaren Schaden begrenzt.\nIn allen anderen Fällen ist die Haftung von Crodox – gleich aus welchem Rechtsgrund, einschließlich Delikt – im größtmöglichen nach geltendem Recht zulässigen Umfang ausgeschlossen. Insbesondere haftet Crodox nicht für indirekte, zufällige, besondere oder Folgeschäden, einschließlich, aber nicht beschränkt auf entgangenen Gewinn, Datenverlust, Geschäftsverlust oder Verlust der Privatsphäre, die aus der Nutzung oder der Unmöglichkeit der Nutzung der Website entstehen oder damit zusammenhängen, selbst wenn Crodox auf die Möglichkeit solcher Schäden hingewiesen wurde.\nSoweit eine Haftung gesetzlich nicht vollständig ausgeschlossen werden kann – insbesondere aufgrund zwingender Verbraucherschutzvorschriften – ist die Gesamthaftung von Crodox auf den Betrag begrenzt, den Sie in den zwölf (12) Monaten vor dem haftungsbegründenden Ereignis tatsächlich an Crodox gezahlt haben, oder auf 100 €, je nachdem, welcher Betrag höher ist.\nGesetzliche zwingende Ansprüche, insbesondere nach dem Produkthaftungsgesetz, bleiben unberührt.\n\n12. Freistellung\nSie verpflichten sich, Crodox sowie ihre verbundenen Unternehmen, leitenden Angestellten, Geschäftsführer, Mitarbeiter, Vertreter, Partner und Lizenzgeber von sämtlichen Ansprüchen, Haftungen, Schäden, Verlusten oder Aufwendungen, einschließlich angemessener Rechtsanwaltskosten, freizustellen, zu verteidigen und schadlos zu halten, die entstehen aus oder im Zusammenhang stehen mit: (a) Ihrer Nutzung der Website oder Ihrem Zugriff auf die Website; (b) Ihrem Verstoß gegen diese Bedingungen oder gegen geltende Gesetze oder Vorschriften; oder (c) Ihrer Verletzung von Rechten Dritter, einschließlich Rechten des geistigen Eigentums oder Datenschutzrechten.\n\n13. Datenschutz\nWenn Sie die Website nutzen oder uns kontaktieren, können wir folgende personenbezogene Daten erheben und verarbeiten:\n• Name oder Benutzername\n• E-Mail-Adresse\n• Postanschrift\n\nAlle personenbezogenen Daten werden gemäß geltendem Datenschutzrecht verarbeitet, insbesondere gemäß der Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG). Vollständige Einzelheiten zur Datenverarbeitung, Ihren Rechten als betroffene Person und der Ausübung dieser Rechte finden Sie in unserer Datenschutzerklärung, die integraler Bestandteil unserer rechtlichen Informationen ist.\nDatenschutz von Kindern\nDie Website darf von Kindern unter 16 Jahren nur mit der nachweisbaren Einwilligung eines Elternteils oder gesetzlichen Vertreters genutzt werden, wie es Art. 8 der Datenschutz-Grundverordnung (DSGVO) vorsieht. Wenn Sie ein Konto im Namen eines Kindes unter 16 Jahren registrieren, bestätigen Sie, dass Sie Elternteil oder gesetzlicher Vertreter dieses Kindes sind und der Erhebung und Verarbeitung der personenbezogenen Daten des Kindes wie in diesen Bedingungen und in unserer Datenschutzerklärung beschrieben zustimmen.\nCrodox erhebt wissentlich keine personenbezogenen Daten von Kindern unter 16 Jahren ohne nachweisbare elterliche Einwilligung. Wenn uns bekannt wird, dass personenbezogene Daten eines Kindes unter 16 Jahren ohne eine solche Einwilligung erhoben wurden, werden wir diese Daten unverzüglich löschen.\nEltern oder gesetzliche Vertreter, die personenbezogene Daten ihres Kindes einsehen, berichtigen oder deren Löschung verlangen möchten, können uns jederzeit unter info@crodox.com kontaktieren.\n\n14. Sperrung und Beendigung\nCrodox kann nach eigenem Ermessen Ihren Zugriff auf die Website jederzeit aus beliebigem Grund oder ohne Grund mit oder ohne vorherige Mitteilung aussetzen oder beenden, ohne Ihnen gegenüber dafür zu haften. Insbesondere kann der Zugriff eingeschränkt oder beendet werden, wenn Sie gegen diese Bedingungen, geltendes Recht oder Rechte Dritter verstoßen oder wenn eine Sperrung aus Sicherheitsgründen erforderlich ist.\nNach Beendigung müssen Sie jede Nutzung der Website einstellen. Die Beendigung beschränkt keine Rechte oder Rechtsbehelfe von Crodox nach Gesetz oder Billigkeitsrecht.\n\n15. Änderungen dieser Bedingungen\nCrodox behält sich das Recht vor, diese Bedingungen jederzeit nach eigenem Ermessen zu ändern oder zu ersetzen. Bei wesentlichen Änderungen werden wir uns bemühen, mindestens 30 Tage im Voraus zu informieren, beispielsweise durch einen Hinweis auf der Website oder per E-Mail. Was eine wesentliche Änderung darstellt, bestimmt Crodox nach eigenem Ermessen.\nDurch den weiteren Zugriff auf die Website oder deren weitere Nutzung nach Inkrafttreten geänderter Bedingungen erklären Sie sich damit einverstanden, an die aktualisierten Bedingungen gebunden zu sein. Es gilt die zum Zeitpunkt Ihrer Nutzung auf der Website verfügbare Fassung der Bedingungen. Wenn Sie den geänderten Bedingungen nicht zustimmen, müssen Sie die Nutzung der Website einstellen.\n\n16. Anwendbares Recht und Gerichtsstand\nDiese Bedingungen sowie alle Streitigkeiten oder Ansprüche, die aus ihnen oder im Zusammenhang mit ihnen entstehen, einschließlich außervertraglicher Streitigkeiten, unterliegen dem Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG), sofern nicht zwingende Verbraucherschutzvorschriften Ihres Wohnsitzlandes einen günstigeren Schutz vorsehen.\nAlle Streitigkeiten unterliegen der Zuständigkeit der zuständigen Gerichte am eingetragenen Geschäftssitz von Crodox in Ellwangen/Jagst, Deutschland, sofern nicht zwingende gesetzliche Vorschriften einen anderen Gerichtsstand vorsehen.\n\n17. Salvatorische Klausel und gesamte Vereinbarung\nSollte eine Bestimmung dieser Bedingungen unwirksam oder undurchsetzbar sein oder werden, bleiben die übrigen Bestimmungen in vollem Umfang wirksam. Die unwirksame Bestimmung wird durch die gesetzliche Regelung ersetzt, die ihrem beabsichtigten Zweck am nächsten kommt.\nDiese Bedingungen bilden zusammen mit unserer Datenschutzerklärung, Cookie-Richtlinie und unserem Impressum die gesamte Vereinbarung zwischen Ihnen und Crodox bezüglich Ihrer Nutzung der Website und ersetzen alle vorherigen Verständnisse, Vereinbarungen oder Erklärungen.\n\n18. Definitionen\nFür die Zwecke dieser Bedingungen gelten die folgenden Definitionen:\n• „Crodox“, „wir“, „uns“, „unser“ - bezeichnet die Crodox Software GmbH, An der Mauer 4, 73479 Ellwangen/Jagst, Deutschland.\n• „Website“ - die Crodox-Website, abrufbar unter https://www.crodox.com/en, sowie alle zugehörigen Subdomains.\n• „Dienst“ - alle Inhalte, Funktionen und Dienste, die über die Website angeboten werden, einschließlich aller Crodox-Softwareprodukte oder -Tools, die direkt über die Website ohne separaten Download zugänglich sind.\n• „Nutzer“, „Sie“, „Ihr“ - jede natürliche oder juristische Person, die auf die Website oder einen Dienst zugreift oder diese nutzt, unabhängig davon, ob sie registriert ist.\n• „Cookie“ - eine kleine Datenmenge, die von einer Website erzeugt und von Ihrem Webbrowser gespeichert wird, um Ihren Browser zu identifizieren, Analysen bereitzustellen und Präferenzen oder Anmeldeinformationen zu speichern.\n• „Gerät“ - jedes internetfähige Gerät, wie Telefon, Tablet, Computer oder ein anderes Gerät, das für den Zugriff auf die Website verwendet wird.\n• „Dienst Dritter“ - jeder externe Dienst, jede externe Plattform oder jeder externe Inhalt, der nicht von Crodox betrieben oder kontrolliert wird.\n• „Updates“ - Patches, Fehlerbehebungen, Upgrades oder sonstige Änderungen der Website oder ihrer Funktionen.\n\n19. Kontakt\nWenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte:\nCrodox Software GmbH - An der Mauer 4, 73479 Ellwangen/Jagst, Deutschland\ninfo@crodox.com"
+  },
+  "Imprint": {
+    "title": "Impressum",
+    "content": "Angaben gemäß § 5 DDG:\n\nCrodox Software GmbH\nAn der Mauer 4\n73479 Ellwangen/Jagst\nDeutschland\n\nVertreten durch den Geschäftsführer:\nPhilip Albrecht\n\nKontakt:\nE-Mail: info@crodox.com\n\nHandelsregister:\nRegistergericht: Amtsgericht Ulm\nRegisternummer: HRB 750536\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27a UStG:\nDE458561519"
+  },
+  "Navigation": {
+    "links": {
+      "howItWorks": "So funktioniert's",
+      "solutions": "Lösungen",
+      "whyCrodox": "Warum Crodox",
+      "resources": "Ressourcen",
+      "enterprise": "Enterprise"
+    },
+    "solutionsDropdown": {
+      "byUseCase": "Nach Anwendungsfall",
+      "byTeam": "Nach Team",
+      "byIndustry": "Nach Branche"
+    },
+    "buttonOpenApp": "App öffnen",
+    "buttonNewsletter": "Newsletter",
+    "buttonJoinWaitlist": "Frühen Zugang sichern",
+    "buttonFeedback": "Feedback senden"
+  },
+  "HomePage": {
+    "hero": {
+      "badge": "EXTRAHIEREN. ISOLIEREN. LIEFERN.",
+      "title": "Komponenten in unabhängige Repositories isolieren,",
+      "titleHighlight": "Änderungen nahtlos zurückführen.",
+      "description": "Crodox ermöglicht müheloses Skalieren, schnelleres Onboarding, sicheres Outsourcing, konfliktfreie Zusammenarbeit und einen besseren Schutz Ihrer Codebase. Gleichzeitig steigert es die Effizienz und Sicherheit von KI-Workflows durch kleinere Kontextfenster und eine reduzierte Cyberangriffsfläche.",
+      "buttonStayUpdated": "Nichts verpassen",
+      "buttonFeedback": "Feedback senden",
+      "stats": {
+        "auditable": "nachvollziehbare KI-Interaktionen",
+        "onboarding": "schnelleres Entwickler-Onboarding",
+        "sourceCode": "Quellcode verlässt Ihre Infrastruktur"
+      },
+      "tabs": {
+        "connectRepo": "Repository verbinden",
+        "isolateComponents": "Komponenten isolieren",
+        "makeChanges": "Änderungen vornehmen",
+        "reintegrateChanges": "Änderungen reintegrieren"
+      }
+    },
+    "launchApp": {
+      "teaser": "Live Produkt",
+      "title": "Direkt in die Crodox App starten",
+      "description": "Entdecken Sie das echte Produkt und erleben Sie den Workflow direkt in der Live-Umgebung.",
+      "button": "Crodox App öffnen"
+    },
+    "whatIsCrodox": {
+      "title": "Was ist Crodox?",
+      "description": "Ein Tool zum Extrahieren von Komponenten und deren vollständigen Abhängigkeitsbäumen in eine saubere, ausführbare Umgebung - damit Sie und Ihre KI nur an dem arbeiten, was relevant ist.",
+      "steps": {
+        "extract": {
+          "label": "Extrahieren",
+          "description": "Komponente auswählen"
+        },
+        "isolate": {
+          "label": "Isolieren",
+          "description": "Abhängigkeiten bündeln"
+        },
+        "run": {
+          "label": "Ausführen",
+          "description": "In Isolation starten"
+        },
+        "focus": {
+          "label": "Fokussieren",
+          "description": "KI arbeitet präzise"
+        },
+        "reintegrate": {
+          "label": "Reintegrieren",
+          "description": "Sicher zusammenführen"
+        }
+      },
+      "editorMoreTitle": "Crodox funktioniert mit jeder Sprache - wenn sie Dateien und Abhängigkeiten hat, kann sie isoliert werden."
+    },
+    "workflow": {
+      "teaser": "Workflow",
+      "title": "In vier Schritte zu voller Kontrolle über Ihre Codebase.",
+      "steps": {
+        "step01": {
+          "title": "Repository verbinden",
+          "description": "Verbinden Sie Crodox mit Ihrer Codebase. Wir kartieren den vollständigen Abhängigkeitsgraphen, identifizieren Modulgrenzen und zeigen Zugriffsrisiken automatisch auf."
+        },
+        "step02": {
+          "title": "Isolieren und absichern",
+          "description": "Definieren Sie Workbenches nach Modul, Feature oder Team. Crodox erstellt isolierte Umgebungen mit komponentenbasierter Zugriffskontrolle - und schützt so Ihr geistiges Eigentum, auch beim Outsourcing."
+        },
+        "step03": {
+          "title": "Mit Vertrauen liefern",
+          "description": "Teams onboarden schneller, KI-Agenten erhalten fokussierten Kontext statt Ihrer gesamten Codebase, und jede Aktion ist nachvollziehbar. Weniger Risiko, mehr Tempo."
+        },
+        "step04": {
+          "title": "Prüfen, freigeben, reintegrieren",
+          "description": "Sobald Änderungen geprüft und freigegeben wurden, reintegriert Crodox sie automatisch in die Haupt-Codebase - mit vollständigem Diff-Tracking und Abhängigkeitsvalidierung. Kein manuelles Mergen, keine offenen Enden."
+        }
+      },
+      "exploreInDepth": "Im Detail erkunden",
+      "deepDiveDescription": "Möchten Sie die vollständige technische Erklärung?",
+      "deepDive": {
+        "visualOverview": "Visuelle Übersicht",
+        "stepByStep": "Schritt-für-Schritt-Prozess",
+        "technicalDeepDive": "Technischer Deep-Dive"
+      }
+    },
+    "pillars": {
+      "teaser": "Drei Kernpfeiler",
+      "title": "Hören Sie auf, Zeit zu verschwenden, und schützen Sie Ihre Codebase",
+      "cards": {
+        "contextAwareAI": {
+          "title": "Kontextbewusste KI",
+          "description": "Ihr KI-Agent braucht handhabbaren Kontext. Daten wachsen 100x schneller als LLM-Kontextfenster - ohne Fokussierung halluzinieren Agenten und produzieren riskanten Code. Crodox liefert genau den Kontext, den sie brauchen - nicht mehr. Das Ergebnis: zuverlässige Ausgabe, niedrigere Token-Kosten und eine KI, die tatsächlich liefert."
+        },
+        "scalableWorkflows": {
+          "title": "Skalierbare Workflows",
+          "description": "Neue Mitarbeiter warten wochenlang, bevor sie beitragen können. Outsourcing legt Ihre Codebase offen. Crodox isoliert Aufgaben, damit Teams von Tag eins an liefern."
+        },
+        "secureCode": {
+          "title": "Sicherer Code",
+          "description": "Hören Sie auf, Ihre gesamte Codebase zu exponieren. Jedes freigegebene Repository ist eine Angriffsfläche. Crodox kontrolliert den Zugriff auf Komponentenebene, damit Ihr geistiges Eigentum geschützt bleibt - auch beim Outsourcing."
+        }
+      }
+    },
+    "enterprise": {
+      "teaser": "Enterprise",
+      "title": "Sprechen Sie mit uns und erfahren Sie, wie wir Ihren Entwicklungs-Workflow vereinfachen können.",
+      "button": "Kontakt aufnehmen"
+    },
+    "feedback": {
+      "teaser": "Feedback",
+      "title": "Sagen Sie uns, was Sie denken",
+      "description": "Teilen Sie einen Fehler, eine Idee oder allgemeines Feedback. Name und E-Mail sind optional, wenn Sie anonym bleiben möchten.",
+      "submitLabel": "Feedback senden"
+    },
+    "team": {
+      "teaser": "Unser Team",
+      "title": "Unser Team vorstellen",
+      "description": "Die leidenschaftlichen Menschen hinter Crodox, die gemeinsam daran arbeiten, Entwicklungs-Workflows zu revolutionieren.",
+      "members": {
+        "pa": {
+          "name": "Philip Albrecht",
+          "title": "Mitgründer & CEO",
+          "description": "Informatik-Abschlüsse am Trinity College Dublin und KIT. Entwickelt Crodox seit 2023, schreibt Kerncode und gestaltet die Roadmap auf Basis von Kundenbedürfnissen."
+        },
+        "sw": {
+          "name": "Sarah Waldinger",
+          "title": "Mitgründerin & COO",
+          "description": "+7 Jahre Erfahrung im Investmentbanking und in der Unternehmensberatung bei JPMorgan, BNP Paribas und PwC. Mit ihrem strategischen Denken ist sie darauf konzentriert, den langfristigen Erfolg von Crodox voranzutreiben."
+        },
+        "ss": {
+          "name": "Sebastian Steinau",
+          "title": "Deployment",
+          "description": "Software-Architekt mit Spezialisierung auf verteilte Systeme und APIs in der Azure Cloud. Promotion im Bereich skalierbare, datengetriebene Prozessmanagementsysteme."
+        },
+        "lt": {
+          "name": "Lothar Taferner",
+          "title": "Kunden & Betrieb",
+          "description": "30 Jahre Expertise in Softwareentwicklung, Projektabwicklung und Produktführung. Hat komplexe Lösungen von der Konzeption bis zur Markteinführung im großen Maßstab vorangetrieben."
+        },
+        "jr": {
+          "name": "Justin Radler",
+          "title": "UX/UI",
+          "description": "B.Eng. in UX von der Hochschule Aalen mit 6+ Jahren Erfahrung in der Entwicklung sauberer, strukturierter Software und nutzerzentrierter Lösungen."
+        },
+        "sj": {
+          "name": "Sandra Jörg",
+          "title": "Marketing",
+          "description": "30 Jahre Expertise in Produktmarketing und Scale-ups. Ausgezeichnet als 'IT-Frau des Jahres 2022', leitet sie Markenstrategie und Marktpräsenz."
+        }
+      }
+    },
+    "invest": {
+      "label": "Gefördert durch",
+      "description": "Crodox wird durch INVEST, ein Förderprogramm des Bundesministeriums für Wirtschaft und Klimaschutz, unterstützt."
+    },
+    "earlyAccess": {
+      "teaser": "Early Access",
+      "title": "Arbeiten Sie am Code,",
+      "titleHighlight": "nicht gegen die Codebase.",
+      "description": "Die ersten 100 Mitglieder erhalten exklusive Vorab-Einblicke, priorisierten Onboarding-Zugang und einen Vorsprung vor der Veröffentlichung. Sichern Sie sich jetzt Ihren Platz - und gestalten Sie die Zukunft von Crodox mit.",
+      "button": "Platz sichern",
+      "buttonLoading": "Wird gesichert...",
+      "messages": {
+        "subscriptionPending": "Sie stehen auf der Liste! Überprüfen Sie Ihren Posteingang, um Ihren Platz zu bestätigen.",
+        "alreadySubscribed": "Sie wurden erfolgreich zur Warteliste hinzugefügt!",
+        "memberExists": "Sie wurden erfolgreich zur Warteliste hinzugefügt!",
+        "pendingConfirmation": "Bitte prüfen Sie Ihren Posteingang - eine Bestätigungs-E-Mail wartet auf Sie.",
+        "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "emailRequired": "Bitte geben Sie Ihre E-Mail-Adresse ein."
+      }
+    },
+    "newsletter": {
+      "badge": "NICHTS VERPASSEN",
+      "title": "Verpassen Sie keine Produkt-Updates",
+      "description": "Engineering-Einblicke, Produktneuigkeiten und Early-Access-Ankündigungen. Kein Spam.",
+      "button": "Abonnieren",
+      "buttonLoading": "Wird abonniert...",
+      "messages": {
+        "subscriptionPending": "Fast geschafft! Überprüfen Sie Ihren Posteingang, um Ihr Abonnement zu bestätigen.",
+        "alreadySubscribed": "Sie haben unseren Newsletter erfolgreich abonniert!",
+        "memberExists": "Sie haben unseren Newsletter erfolgreich abonniert!",
+        "pendingConfirmation": "Bitte prüfen Sie Ihren Posteingang - eine Bestätigungs-E-Mail wartet auf Sie.",
+        "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "emailRequired": "Bitte geben Sie Ihre E-Mail-Adresse ein."
+      }
+    }
+  },
+  "ResourcesPage": {
+    "teaser": "Ressourcen",
+    "title": "Referenzen & Dokumentation",
+    "description": "Alles, was Sie benötigen, um Crodox zu evaluieren, zu integrieren und optimal zu nutzen.",
+    "comingSoon": "Demnächst verfügbar",
+    "cards": {
+      "documentation": {
+        "title": "Dokumentation",
+        "description": "Technische Anleitungen, API-Referenzen und Integrations-Walkthroughs, um Ihr Team zum Laufen zu bringen."
+      },
+      "caseStudies": {
+        "title": "Fallstudien",
+        "description": "Praxisbeispiele, wie Entwicklungsteams Crodox nutzen, um Legacy-Systeme zu modernisieren und KI-Workflows zu skalieren."
+      },
+      "videoTutorials": {
+        "title": "Video-Tutorials",
+        "description": "Schrittweise Screencasts zu Einrichtung, Modul-Extraktion, Kontextgenerierung und KI-Integrationen."
+      },
+      "blog": {
+        "title": "Blog",
+        "description": "Lesen Sie Produktneuigkeiten, Engineering-Deep-Dives und praktische Learnings vom Crodox-Team."
+      },
+      "downloads": {
+        "title": "Downloads & Publikationen",
+        "description": "Greifen Sie auf Whitepapers, technische Berichte und weitere Ressourcen zu."
+      }
+    }
+  },
+  "DownloadsPage": {
+    "teaser": "Downloads",
+    "title": "Publikationen & Ressourcen",
+    "description": "Greifen Sie auf unsere Whitepapers, technische Dokumentation und andere herunterladbare Ressourcen zu.",
+    "empty": "Noch keine Downloads verfügbar.",
+    "published": "Veröffentlicht",
+    "items": {
+      "crodox-whitepaper": {
+        "title": "Crodox Whitepaper",
+        "description": "Umfassender technischer Überblick über die Crodox-Plattform, Architektur und Methodik zur Modernisierung von Legacy-Systemen.",
+        "longDescription": "Dieses Whitepaper bietet einen detaillierten Einblick, wie Crodox Engineering-Teams dabei unterstützt, Legacy-Systeme sicher und effizient zu modernisieren. Es behandelt unseren einzigartigen Ansatz zur Modulextraktion, kontextbewusster KI-Integration und inkrementellen Modernisierungsstrategien, die Risiken minimieren und gleichzeitig maximalen Mehrwert schaffen.\n\nBehandelte Themen:\n• Architektur- und Design-Prinzipien\n• Modulextraktions-Methodik\n• KI-gestützte Code-Analyse und -Generierung\n• Integrationsmuster und Best Practices\n• Fallstudien und praktische Anwendungen\n• Sicherheits- und Compliance-Überlegungen",
+        "category": "Technische Dokumentation"
+      }
+    }
+  },
+  "DownloadDetailPage": {
+    "backToDownloads": "Zurück zu Downloads",
+    "published": "Veröffentlicht",
+    "fileSize": "Dateigröße",
+    "downloadButton": "PDF herunterladen"
+  },
+  "BlogPage": {
+    "teaser": "Blog",
+    "title": "Einblicke vom Crodox Team",
+    "description": "Produktneuigkeiten, Engineering-Deep-Dives und praktische Learnings zu fokussierten KI-Workflows.",
+    "readMore": "Artikel lesen",
+    "backToBlog": "Zurück zum Blog",
+    "empty": "Noch keine Blogartikel veröffentlicht.",
+    "emptyArticle": "Dieser Artikel hat noch keinen Inhalt.",
+    "strapiNotConfigured": "Beim Laden der Inhalte ist etwas schiefgelaufen. Bitte versuchen Sie es später erneut.",
+    "posts": [
+      {
+        "slug": "anthropic-accident",
+        "title": "Wie Anthropic versehentlich 500.000 Zeilen Code veröffentlichte",
+        "subtitle": "Und was das für jedes Unternehmen bedeutet, das KI nutzt",
+        "author": "Crodox",
+        "readingTimeMinutes": 5,
+        "publishedAt": "2026-04-16T09:30:00.000Z",
+        "blocks": [
+          {
+            "type": "image",
+            "src": "/blog/anthropic-accident/image-1.png",
+            "alt": "Der Anthropic-Claude-Code-Leak - 31. März 2026",
+            "caption": "Der Anthropic-Claude-Code-Leak - 31. März 2026"
+          },
+          {
+            "type": "paragraph",
+            "text": "Am 31. März 2026 veröffentlichte Anthropic, eines der weltweit führenden Unternehmen für KI-Sicherheit und der Entwickler von Claude, versehentlich einen Teil des internen Codes seines Flaggschiffprodukts Claude Code in einer öffentlichen npm-Registry. Über 512.000 Zeilen proprietären TypeScript-Codes aus fast 2.000 Dateien wurden offengelegt. Innerhalb weniger Stunden wurde der Code gespiegelt, analysiert, in Python und Rust umgeschrieben und von Zehntausenden Entwicklern untersucht."
+          },
+          {
+            "type": "paragraph",
+            "text": "Anthropic bezeichnete es als „ein Packaging-Problem bei der Veröffentlichung durch menschliches Versagen, nicht als Sicherheitsverletzung“. Das ist technisch korrekt, verschleiert jedoch deutlich größere strategische und operative Probleme."
+          },
+          {
+            "type": "notice",
+            "tone": "success",
+            "text": "Das war kein Hack. Es war etwas deutlich Unangenehmeres: ein Prozessversagen, das offen sichtbar war - die Art von Fehler, die heute jedem Unternehmen mit KI-Coding-Tools passieren könnte."
+          },
+          {
+            "type": "section",
+            "heading": "Was tatsächlich passiert ist",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Die Ursache war eine JavaScript-Source-Map-Datei - ein Debugging-Artefakt, das Entwickler intern verwenden -, die versehentlich in eine Veröffentlichung von Claude Code Version 2.1.88 aufgenommen wurde. Diese Datei verwies auf ein ZIP-Archiv in Anthropics eigenem Cloud-Speicher, das wesentliche Teile der clientseitigen Agentenlogik von Claude Code enthielt."
+              },
+              {
+                "type": "paragraph",
+                "text": "Was offengelegt wurde:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Vollständige Orchestrierungs- und Agentenlogik - wie Claude Code langlaufende Aufgaben verwaltet",
+                  "Speicherverwaltungssystem und Kontextbehandlung über komplexe Sitzungen hinweg",
+                  "Feature-Flags für Dutzende unveröffentlichter Funktionen, vollständig entwickelt, aber noch nicht ausgeliefert",
+                  "Interne Modell-Codenamen (Capybara, Mythos, Fennec) und Leistungsmetriken"
+                ]
+              },
+              {
+                "type": "image",
+                "src": "/blog/anthropic-accident/image-2.png",
+                "alt": "Zeitlicher Ablauf der Ereignisse am 31. März 2026",
+                "caption": "Zeitlicher Ablauf der Ereignisse am 31. März 2026"
+              },
+              {
+                "type": "paragraph",
+                "text": "Der Sicherheitsforscher Chaofan Shou entdeckte dies nahezu sofort und veröffentlichte es. Der Tweet wurde über 30 Millionen Mal angesehen. Als Anthropic mit Takedown-Anfragen reagierte, war der Code bereits in Tausenden Repositories gespiegelt. Das Unternehmen stellte schließlich über 8.000 Copyright-Takedown-Anfragen, von denen einige versehentlich legitime Forks trafen und einen peinlichen teilweisen Rückzug erzwangen."
+              },
+              {
+                "type": "notice",
+                "tone": "info",
+                "text": "„Die Takedowns haben das Leak nicht eingedämmt. Sie haben nur die Dateiendung geändert.“\n- Jeff Brown, IANS Faculty"
+              },
+              {
+                "type": "paragraph",
+                "text": "Erschwerend kam hinzu, dass der Leak fast zeitgleich mit einem separaten, unabhängigen Supply-Chain-Angriff auf das axios-npm-Paket zusammenfiel - wodurch Entwickler, die Claude Code in einem bestimmten dreistündigen Zeitfenster aktualisierten, möglicherweise unbeabsichtigt auch einen Remote-Access-Trojaner installiert haben."
+              },
+              {
+                "type": "notice",
+                "tone": "success",
+                "text": "Dies war nicht Anthropics erster Vorfall. Bereits im Februar 2025 war eine frühe Version von Claude Code auf nahezu identische Weise geleakt. Und nur wenige Tage vor dem 31. März wurde außerdem ein vertraulicher Entwurf eines Blogposts über ein unveröffentlichtes Modell offengelegt. Drei schwerwiegende Sicherheitsvorfälle in etwas mehr als einem Jahr."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Warum das über Anthropic hinaus relevant ist",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Es wäre einfach, dies als Anthropic-spezifische Geschichte abzutun - als warnendes Beispiel für ein Unternehmen, das sich zu schnell bewegt hat. Doch diese Sichtweise ist gefährlich bequem."
+              },
+              {
+                "type": "paragraph",
+                "text": "Die eigentliche Lehre ist universell. Sie betrifft den Kern dessen, was passiert, wenn KI-Tools umfassenden, unkontrollierten Zugriff auf Ihre Codebase erhalten."
+              },
+              {
+                "type": "image",
+                "src": "/blog/anthropic-accident/image-3.png",
+                "alt": "Die strukturellen Probleme, die diesen Leak möglich - und unvermeidbar - machten",
+                "caption": "Die strukturellen Probleme, die diesen Leak möglich - und unvermeidbar - machten"
+              },
+              {
+                "type": "paragraph",
+                "text": "Claude Code arbeitet wie alle modernen KI-Coding-Agenten, indem es große Mengen an Code-Kontext aufnimmt und diesen nutzt, um Änderungen zu generieren, zu modifizieren und bereitzustellen. Je mehr Kontext verfügbar ist, desto besser funktioniert das Tool. Doch genau diese Breite des Zugriffs - die das Tool leistungsfähig macht - macht einen Packaging-Fehler so katastrophal."
+              },
+              {
+                "type": "paragraph",
+                "text": "Fragen Sie sich nun: Wie sähe das Äquivalent in Ihrem Unternehmen aus?"
+              },
+              {
+                "type": "paragraph",
+                "text": "Ihre KI-Coding-Tools haben Zugriff auf:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Ihre gesamte Codebase, einschließlich interner APIs und Geschäftslogik",
+                  "Ihre unveröffentlichte Produkt-Roadmap, eingebettet in Code-Kommentaren und Feature-Flags",
+                  "Ihre Leistungsmetriken und internen Modell-Benchmarks",
+                  "Ihre Sicherheitsarchitektur und Zugriffssteuerungslogik"
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "All das liegt dort zugänglich vor, weil diese Tools genau dafür konzipiert sind. Wenn der Release-Prozess versagt - wie menschliche Prozesse es zwangsläufig tun -, gibt es nichts, das den Schadensradius begrenzt."
+              },
+              {
+                "type": "notice",
+                "tone": "info",
+                "text": "„Wichtiger als die Tatsache, dass etwas geleakt ist, ist was geleakt wurde. Hier wurden proprietäre Techniken offengelegt, deren Entwicklung Jahre und Milliarden Dollar gekostet hat.“ — Jeff Brown, IANS Faculty"
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Wie Crodox dies verhindert hätte",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Für genau dieses Problem wurde Crodox entwickelt, um es zu lösen."
+              },
+              {
+                "type": "image",
+                "src": "/blog/anthropic-accident/image-4.png",
+                "alt": "Ohne Crodox: vollständige Offenlegung. Mit Crodox: keine Offenlegung",
+                "caption": "Ohne Crodox: vollständige Offenlegung. Mit Crodox: keine Offenlegung"
+              },
+              {
+                "type": "paragraph",
+                "text": "Im Kern der Crodox-Plattform steht Code-Isolierung pro Änderung. Statt KI-Agenten - oder beliebigen Entwicklern, intern oder extern - Zugriff auf die vollständige Codebase zu geben, extrahiert Crodox automatisch nur den spezifischen Code, der für eine bestimmte Aufgabe relevant ist, einschließlich aller Abhängigkeiten, sprachübergreifend."
+              },
+              {
+                "type": "paragraph",
+                "text": "Angewendet auf das Anthropic-Szenario: Wäre die Release-Pipeline von Claude Code über Crodox gelaufen, hätte der Packaging-Prozess nur auf einem begrenzten, kontrollierten Extrakt der relevanten Release-Dateien gearbeitet - nicht auf dem vollständigen Source Tree. Die Debugging-Source-Map wäre nie im Scope gewesen. Sie wäre nicht zugänglich gewesen. Sie hätte nicht geleakt werden können."
+              },
+              {
+                "type": "paragraph",
+                "text": "Crodox bietet drei zentrale Schutzmechanismen:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Code-Isolierung pro Änderung - KI-Agenten und Pipelines sehen nur, was für die jeweilige Aufgabe relevant ist",
+                  "Governed Development Scopes - Menschen und KI arbeiten in kontrollierten Umgebungen, niemals auf der vollständigen Codebase",
+                  "Sichere Reintegration - validierte Änderungen werden automatisch zurückgeführt, ohne dass manuelle Abkürzungen möglich sind"
+                ]
+              },
+              {
+                "type": "notice",
+                "tone": "success",
+                "text": "Der Anthropic-Vorfall geschah, weil jemand eine Abkürzung nahm und dabei normale Release-Schutzmechanismen umging. Crodox macht solche Abkürzungen strukturell unmöglich - nicht durch mehr Regeln, sondern indem der korrekte Weg der einzige verfügbare Weg ist."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Das größere Bild",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Anthropic ist kein nachlässiges Unternehmen. Nach den meisten Einschätzungen gehört es zu den sicherheitsbewusstesten Organisationen der KI-Branche. Und dennoch haben sie nun bereits zweimal Teile ihres eigenen Quellcodes geleakt, eine vertrauliche Modell-Roadmap offengelegt und versehentlich Tausende GitHub-Repositories zerstört - alles innerhalb weniger Wochen."
+              },
+              {
+                "type": "paragraph",
+                "text": "Wenn es ihnen passieren kann, kann es jedem passieren."
+              },
+              {
+                "type": "paragraph",
+                "text": "Die unbequeme Wahrheit ist, dass KI-Coding-Tools das Risikoprofil der Softwareentwicklung grundlegend verändern. Sie sind gerade deshalb so leistungsfähig, weil sie mit breitem Zugriff und hoher Autonomie arbeiten. Doch diese Macht bringt die entsprechende Verantwortung mit sich, diesen Zugriff sorgfältig zu kontrollieren."
+              },
+              {
+                "type": "paragraph",
+                "text": "Die Welle des KI-Codings ist da. Die Frage ist nicht, ob Sie diese Tools einsetzen werden - das werden Sie, oder Ihre Wettbewerber werden es tun. Die Frage ist, ob Sie die Infrastruktur schaffen, um sie sicher einzusetzen."
+              },
+              {
+                "type": "paragraph",
+                "text": "Genau diese Infrastruktur bietet Crodox."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "gitex-ai-europe-berlin-rueckblick",
+        "title": "Rückblick auf die GITEX AI Europe in Berlin",
+        "subtitle": "Die Zukunft der KI-gestützten Softwareentwicklung nimmt Gestalt an",
+        "author": "Crodox",
+        "readingTimeMinutes": 4,
+        "publishedAt": "2026-07-06T09:30:00.000Z",
+        "blocks": [
+          {
+            "type": "image",
+            "src": "/blog/2-gitex-ai-europe/image-1.png",
+            "alt": "Crodox at GITEX AI Europe",
+            "caption": "Crodox at GITEX AI Europe",
+            "size": "medium"
+          },
+          {
+            "type": "paragraph",
+            "text": "Letzte Woche hatte das Crodox-Team die Gelegenheit, die GITEX AI Europe in Berlin zu besuchen, eine der am schnellsten wachsenden Veranstaltungen Europas für künstliche Intelligenz und neue Technologien. Sie brachte Tausende von CTOs, Softwareentwicklern, Gründern, Unternehmensverantwortlichen, Forschern und KI-Praktikern zusammen - alle mit einer zentralen Frage: Wie verwandeln wir KI in echten geschäftlichen Mehrwert?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Für uns war die Veranstaltung weit mehr als eine Messe. Sie war eine Gelegenheit, die Herausforderungen zu validieren, die wir täglich in Gesprächen mit Engineering-Organisationen sehen, und besser zu verstehen, wohin sich die Branche entwickelt."
+          },
+          {
+            "type": "section",
+            "heading": "KI ist über die Experimentierphase hinaus",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Ein Thema war nicht zu übersehen: Unternehmen fragen nicht mehr, ob sie KI einsetzen sollten - sie fragen, wie sie KI verantwortungsvoll und in großem Maßstab einführen können."
+              },
+              {
+                "type": "paragraph",
+                "text": "In zahlreichen Gesprächen hörten wir immer wieder ähnliche Fragen:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Wie kann KI die Softwareentwicklung beschleunigen, ohne die Qualität zu gefährden?",
+                  "Wie stellen wir Sicherheit und Compliance sicher, wenn KI zu produktivem Code beiträgt?",
+                  "Wie können Engineering-Teams Entwickler in Kontrolle behalten und gleichzeitig von immer leistungsfähigeren KI-Agenten profitieren?",
+                  "Wie sieht ein effektiver Human-in-the-Loop-Workflow tatsächlich aus?"
+                ]
+              },
+              {
+                "type": "notice",
+                "tone": "success",
+                "text": "Für genau diese Probleme wurde Crodox entwickelt, um sie zu lösen."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Starke Resonanz für den Ansatz mit Crodox",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Eines der größten Highlights der Veranstaltung war zu sehen, wie stark die Crodox-Plattform bei den Besuchern Anklang fand."
+              },
+              {
+                "type": "paragraph",
+                "text": "Ob wir mit Startups sprachen, die KI-first-Produkte entwickeln, oder mit großen Unternehmen, die strenge Governance-Anforderungen bewältigen müssen - das Feedback war bemerkenswert konsistent. Organisationen möchten, dass KI Entwickler produktiver macht. Gleichzeitig benötigen sie Transparenz, Kontrolle und Vertrauen, bevor Code in Produktion geht."
+              },
+              {
+                "type": "paragraph",
+                "text": "Das Konzept, Entwicklern und KI-Agenten zu ermöglichen, effizient an isolierten Teilen einer Codebasis zu arbeiten und gleichzeitig menschliche Überprüfung und Compliance direkt in den Workflow einzubetten, führte zu vielen spannenden Gesprächen."
+              },
+              {
+                "type": "notice",
+                "tone": "success",
+                "text": "Es hat unsere Überzeugung bestätigt, dass es in der Zukunft nicht darum geht, Entwickler durch KI zu ersetzen. Es geht darum, Workflows zu schaffen, in denen Menschen und KI effektiv zusammenarbeiten, damit Teams schneller Innovationen schaffen können und gleichzeitig die Standards einhalten, die für Unternehmenssoftware erforderlich sind."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Human-in-the-Loop wird unverzichtbar",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Während sich die Fähigkeiten von KI weiter verbessern, wurde im Laufe der Veranstaltung eines immer deutlicher: Menschliche Überprüfung entwickelt sich zu einem Wettbewerbsvorteil statt zu einem Engpass."
+              },
+              {
+                "type": "paragraph",
+                "text": "Organisationen suchen nach Lösungen, die Folgendes kombinieren:"
+              },
+              {
+                "type": "list",
+                "ordered": false,
+                "items": [
+                  "Schnellere Softwarebereitstellung",
+                  "Hochwertige Codegenerierung",
+                  "Integrierte Governance und Compliance",
+                  "Transparente Review-Prozesse",
+                  "Kontrolle durch Entwickler über den gesamten Entwicklungslebenszyklus hinweg"
+                ]
+              },
+              {
+                "type": "paragraph",
+                "text": "Die Diskussion verschiebt sich weg von der Frage \"Kann KI Code schreiben?\" hin zu \"Wie integrieren wir KI sicher in unsere Engineering-Prozesse?\""
+              },
+              {
+                "type": "notice",
+                "tone": "success",
+                "text": "Diese Entwicklung passt perfekt zur Vision von Crodox."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Vielen Dank für die Gespräche",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Wir möchten uns bei allen bedanken, die unseren Stand besucht, ihre Herausforderungen mit uns geteilt, ihre KI-Initiativen vorgestellt und gemeinsam mit uns erkundet haben, wie Crodox moderne Softwareentwicklung unterstützen kann."
+              },
+              {
+                "type": "paragraph",
+                "text": "Die Offenheit der Gespräche, die durchdachten Fragen und die Bereitschaft zum Austausch von Ideen machten die GITEX AI Europe zu einer herausragenden Erfahrung für unser Team."
+              },
+              {
+                "type": "paragraph",
+                "text": "Jedes Gespräch hat uns geholfen, die sich wandelnden Bedürfnisse von Engineering-Organisationen besser zu verstehen, und hat die Richtung, die wir einschlagen, weiter bestätigt."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "heading": "Ausblick",
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Wir verlassen Berlin voller Energie durch das Feedback, inspiriert von der Innovation, die wir erlebt haben, und begeistert von den vielen neuen Beziehungen, die entstanden sind."
+              },
+              {
+                "type": "paragraph",
+                "text": "Die Dynamik rund um KI-gestützte Softwareentwicklung ist unübersehbar. Gleichzeitig ist ebenso klar, dass Erfolg davon abhängen wird, Systeme zu entwickeln, denen Entwickler vertrauen - Systeme, die KI-Fähigkeiten mit menschlicher Expertise, Governance und produktionsreifen Workflows verbinden."
+              },
+              {
+                "type": "paragraph",
+                "text": "Wir freuen uns darauf, diese Gespräche fortzusetzen und gemeinsam mit Organisationen daran zu arbeiten, die nächste Generation KI-gestützter Softwareentwicklung zu gestalten."
+              },
+              {
+                "type": "paragraph",
+                "text": "Wenn wir uns auf der GITEX AI Europe getroffen haben, vielen Dank fürs Vorbeischauen. Wenn wir keine Gelegenheit hatten, miteinander ins Gespräch zu kommen, zeigen wir Ihnen gerne, woran wir bei Crodox arbeiten."
+              },
+              {
+                "type": "notice",
+                "tone": "info",
+                "text": "Bis zur nächsten Veranstaltung!"
+              },
+              {
+                "type": "image",
+                "src": "/blog/2-gitex-ai-europe/image-2.png",
+                "alt": "Crodox in Aktion auf der GITEX AI Europe",
+                "caption": "Crodox in Aktion",
+                "size": "medium"
+              },
+              {
+                "type": "image",
+                "src": "/blog/2-gitex-ai-europe/image-3.png",
+                "alt": "GITEX AI Europe Berlin 2026",
+                "caption": "GITEX AI Europe Berlin 2026",
+                "size": "medium"
+              },
+              {
+                "type": "image",
+                "src": "/blog/2-gitex-ai-europe/image-4.png",
+                "alt": "Das Crodox-Team beim gemeinsamen Abendessen nach der GITEX AI Europe",
+                "caption": "Nachklang: Gemeinsames Abendessen nach der Veranstaltung",
+                "size": "medium"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "HowItWorksPage": {
+    "overview": {
+      "teaser": "So funktioniert's",
+      "title": "Einfach von Grund auf",
+      "description": "Drei Prinzipien, die jeden Crodox-Workflow antreiben - extrahieren, isolieren und nahtlos zurückführen.",
+      "steps": {
+        "step01": {
+          "title": "Komponenten extrahieren",
+          "description": "Crodox identifiziert und extrahiert spezifische Komponenten zusammen mit ihren Abhängigkeiten aus Ihrer komplexen Codebase in ein separates Git-Repository."
+        },
+        "step02": {
+          "title": "In Isolation arbeiten",
+          "description": "Entwickler können sich in dieser spezifischen und unabhängig ausführbaren Umgebung konzentrieren, ohne von der gesamten Codebase abgelenkt zu werden."
+        },
+        "step03": {
+          "title": "Nahtlos zurückführen",
+          "description": "Sobald die Änderungen abgeschlossen sind, integriert Crodox sie effizient in das Haupt-Repository zurück und minimiert dabei Konflikte."
+        }
+      }
+    },
+    "process": {
+      "teaser": "Der Prozess",
+      "title": "Vom Repository zu fokussierten, sicheren, KI-fertigen Workbenches",
+      "description": "So funktioniert es: von der automatisierten Repository-Analyse über die Isolation einzelner Komponenten bis zur nahtlosen Reintegration – in Minuten statt Wochen."
+    },
+    "steps": {
+      "step01": {
+        "title": "Repository verbinden",
+        "description": "Verbinden Sie Crodox mit Ihrer Codebase - jede Sprache, jedes Framework, jede Größe. Crodox greift niemals auf Ihren Quellcode zu, speichert oder überträgt ihn. Unsere statische Analyse läuft lokal und tauscht nur strukturelle Metadaten aus - Ihr Code verbleibt vollständig in Ihrer Umgebung.",
+        "bullets": [
+          "Kein Code-Zugriff - nur Abhängigkeits-Metadaten verlassen Ihre Infrastruktur",
+          "Automatische Erkennung von Modulgrenzen und versteckten Kopplungen",
+          "Visuelle Abhängigkeitskarte in Sekunden generiert"
+        ]
+      },
+      "step02": {
+        "title": "Isolieren und absichern",
+        "description": "Definieren Sie Workbenches nach Modul, Feature oder Team. Crodox erstellt isolierte Umgebungen mit komponentenbasierter Zugriffskontrolle - und schützt so Ihr geistiges Eigentum, auch beim Outsourcing. Die vollständige Abhängigkeitsauflösung stellt sicher, dass jede Workbench in sich geschlossen ist.",
+        "bullets": [
+          "Vollständige Abhängigkeitsbaum-Auflösung über Module hinweg",
+          "Isolierte Build-, Test- und Laufzeitumgebungen pro Modul",
+          "Sichere parallele Entwicklung über Teams und externe Dienstleister hinweg"
+        ]
+      },
+      "step03": {
+        "title": "Mit Vertrauen liefern",
+        "description": "Teams onboarden schneller, KI-Agenten erhalten fokussierten Kontext statt Ihrer gesamten Codebase, und jede Aktion ist nachvollziehbar. Weniger Risiko, mehr Tempo - mit token-budget-bewussten Kontextpaketen, die in LLM-Limits passen.",
+        "bullets": [
+          "Token-budget-bewusste Kontextgenerierung (8k, 16k, 128k)",
+          "Native Integrationen mit Copilot, Cursor und benutzerdefinierten Agenten",
+          "Vollständiger Audit-Trail KI-generierter Änderungen pro Modul"
+        ]
+      },
+      "step04": {
+        "title": "Prüfen, freigeben, reintegrieren",
+        "description": "Sobald Änderungen geprüft und freigegeben wurden, reintegriert Crodox sie automatisch in die Haupt-Codebase - mit vollständigem Diff-Tracking und Abhängigkeitsvalidierung. Kein manuelles Mergen, keine offenen Enden.",
+        "bullets": [
+          "Automatisiertes Merge-Back mit Konflikterkennung und Validierung",
+          "Vollständiges Diff-Tracking über alle reintegrierten Änderungen",
+          "Abhängigkeitsvalidierung stellt sicher, dass beim Merge nichts bricht"
+        ]
+      }
+    },
+    "technicalDeepDive": {
+      "trigger": "Technischer Deep-Dive",
+      "tabs": {
+        "overview": {
+          "label": "Übersicht",
+          "title": "Der Crodox-Workflow auf einen Blick",
+          "description": "Crodox transformiert die Softwareentwicklung, indem es monolithische Codebases in handhabbare, isolierte Umgebungen aufteilt - und Änderungen anschließend nahtlos zurückführt. Das Diagramm zeigt den vollständigen Datenfluss von der Repository-Aufnahme über die Workbench-Erstellung bis zum Merge-Back.",
+          "points": [
+            "Statische Analyse läuft lokal - Ihr Quellcode verlässt nie Ihre Infrastruktur",
+            "Parallele Workbench-Umgebungen ermöglichen Teams unabhängige Entwicklung",
+            "Automatisierte Reintegration über einen Live-Abhängigkeitsgraphen eliminiert manuelles Mergen"
+          ]
+        },
+        "componentExtraction": {
+          "label": "Komponenten extrahieren",
+          "title": "Komponenten durch Syntaxanalyse identifizieren",
+          "description": "Der Crodox Compiler führt eine tiefgreifende statische Analyse Ihres Repositorys durch. Er parst den abstrakten Syntaxbaum (AST), um Modulgrenzen zu identifizieren, modulübergreifende Abhängigkeiten aufzulösen und alle Import-/Export-Beziehungen zu kartieren - sprachunabhängig und framework-übergreifend."
+        },
+        "workbenchSetup": {
+          "label": "Workbench-Einrichtung",
+          "title": "Template-Auswahl & Umgebungsbereitstellung",
+          "description": "Wählen Sie aus mehreren von Crodox vorgeschlagenen Templates, die auf dem technischen Profil und den Abhängigkeiten der extrahierten Komponente basieren. Jedes Template stellt eine isolierte Workbench-Umgebung mit genau den richtigen Abhängigkeiten und Tools für die Aufgabe bereit - keine monolithischen Klone oder manuelle Einrichtung mehr.",
+          "points": [
+            "Template-Vorschläge basierend auf Komponentenprofil und Abhängigkeitsgraph",
+            "Jedes Template bündelt nur die minimale Abhängigkeitsfläche und reduziert KI-Token-Kosten",
+            "Umgebungen unterstützen lokale, container-basierte oder Cloud-Workbench-Ziele"
+          ]
+        },
+        "isolatedDevelopment": {
+          "label": "Isolierte Entwicklung",
+          "title": "Fokussierte, unabhängige Entwicklungsumgebungen",
+          "description": "Sobald eine Workbench bereitgestellt ist, arbeiten Entwickler und KI-Agenten vollständig innerhalb der isolierten Umgebung. Die Haupt-Codebase wird niemals exponiert - nur die aufgelöste Komponentenoberfläche ist zugänglich. Änderungen werden auf AST-Ebene nachverfolgt, nicht nur als Datei-Diffs.",
+          "points": [
+            "Nahtlose Integration in bestehende Entwicklungsprozesse durch Git-Branches und Commits innerhalb der Workbench",
+            "Native Integrationen mit Copilot, Cursor und benutzerdefinierten Agent-Pipelines",
+            "Vollständiger Audit-Trail jeder KI-generierten oder menschlichen Änderung pro Workbench"
+          ]
+        },
+        "mergeReintegration": {
+          "label": "Merge & Reintegration",
+          "title": "Automatisiertes Merge-Back über den Abhängigkeitsgraphen",
+          "description": "Wenn die Arbeit zum Mergen bereit ist, reintegriert Crodox die Änderungen automatisch in die Haupt-Codebase.",
+          "points": [
+            "Konflikterkennung läuft gegen den Live-Abhängigkeitsgraphen - nicht nur gegen Dateiüberlappungen",
+            "Vollständiges Diff-Tracking über alle reintegrierten Workbenches in einer einzigen Review-Ansicht"
+          ]
+        }
+      }
+    }
+  },
+  "EnterprisePage": {
+    "teaser": "Enterprise-Lösungen",
+    "title": "Gebaut für Teams, die in großem Maßstab liefern",
+    "description": "Erhalten Sie eine maßgeschneiderte Demo, individuelle Deployment-Optionen und dedizierten Support - entwickelt für Enterprise-Engineering-Organisationen.",
+    "cards": {
+      "dedicatedInfrastructure": {
+        "title": "Dedizierte Infrastruktur",
+        "description": "On-Premise- oder Private-Cloud-Deployment, abgestimmt auf Ihre Sicherheits- und Compliance-Anforderungen."
+      },
+      "ssoAccessControls": {
+        "title": "SSO & Zugriffskontrollen",
+        "description": "Enterprise Single Sign-On, rollenbasierter Zugriff und Audit-Logging direkt im Lieferumfang."
+      },
+      "customOnboarding": {
+        "title": "Individuelles Onboarding",
+        "description": "Praxisnahes Onboarding-Programm mit dediziertem Engineering-Support für Ihre Teams."
+      },
+      "prioritySupport": {
+        "title": "Prioritätssupport & SLA",
+        "description": "Garantierte Reaktionszeiten, ein dedizierter Account-Manager und direkter Zugang zu unserem Engineering-Team."
+      }
+    },
+    "contact": {
+      "teaser": "Enterprise Sales",
+      "title": "Sprechen Sie mit unserem Enterprise-Team",
+      "description": "Fordern Sie eine maßgeschneiderte Demo an und besprechen Sie individuelle Deployment und Pricing Optionen. Wir melden uns zeitnah bei Ihnen.",
+      "submitLabel": "Senden"
+    }
+  },
+  "ContactPage": {
+    "toast": {
+      "success": {
+        "title": "Nachricht gesendet!",
+        "description": "Wir melden uns in Kürze bei Ihnen."
+      },
+      "error": {
+        "title": "Etwas ist schiefgelaufen",
+        "description": "Bitte versuchen Sie es später erneut."
+      }
+    },
+    "form": {
+      "labels": {
+        "name": "Name",
+        "email": "E-Mail",
+        "message": "Nachricht"
+      },
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "sie@unternehmen.com",
+        "message": "Wie können wir helfen?"
+      },
+      "validation": {
+        "emailRequired": "E-Mail ist erforderlich",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+      },
+      "optional": "optional",
+      "sending": "Wird gesendet…"
+    }
+  },
+  "WhyCrodoxPage": {
+    "comparison": {
+      "teaser": "Der Unterschied",
+      "title": "Traditioneller Ansatz vs. Crodox",
+      "description": "Arbeiten mit abgegrenzten, isolierten Workbenches anstatt mit der gesamten Codebase.",
+      "withoutTitle": "Ohne Crodox",
+      "withTitle": "Mit Crodox",
+      "withoutItems": [
+        "KI-Modelle sehen Ihre gesamte Codebase",
+        "Neue Mitarbeiter navigieren durch hunderte irrelevante Dateien",
+        "Outsourcing birgt das Risiko, sensible Geschäftslogik preiszugeben",
+        "QA führt Tests in unübersichtliche, irrelevante Module aus",
+        "Technische Schulden häufen sich still und heimlich mit jeder Änderung"
+      ],
+      "withItems": [
+        "KI erhält präzise abgegrenzten, minimalen Kontext",
+        "Onboarding ist fokussiert auf eine einzige, in sich geschlossene Workbench",
+        "Auftragnehmer erhalten isolierte Pakete ohne jegliche IP-Exposition",
+        "QA testet gezielt Module mit sauberen, nachvollziehbaren Ergebnissen",
+        "Jede Änderung ist explizit, validiert und merge-bereit"
+      ]
+    },
+    "benefits": {
+      "teaser": "Kernvorteile",
+      "title": "Eingebaute Vorteile - von Grund auf",
+      "description": "Sechs Gründe, warum Engineering-Teams Crodox dem Status quo vorziehen.",
+      "cards": {
+        "aiReady": {
+          "title": "KI-bereite Architektur",
+          "description": "Ermöglichen Sie KI-gestütztes Coding, ohne Ihr gesamtes System Sprachmodellen auszusetzen. Crodox erstellt abgegrenzte, in sich geschlossene Kontextpakete, die KI-Agenten genau den Code liefern, den sie benötigen. Ihr geistiges Eigentum bleibt geschützt, während KI präzise, hochwertige Ergebnisse liefert."
+        },
+        "fasterOnboarding": {
+          "title": "Schnelleres Onboarding",
+          "description": "Engineers und Freelancer produktiv in Tagen statt Monaten. Durch die Isolierung von Modulen in eigenständige Workbenches müssen neue Teammitglieder nur den Code verstehen, der für ihre Aufgabe relevant ist - kein langes Navigieren durch einen 500-Dateien-Monolithen, nur um ein einzelnes Feature zu beheben."
+        },
+        "instantScaling": {
+          "title": "Sofortiges und sicheres Skalieren",
+          "description": "Lagern Sie Arbeit sicher aus oder verteilen Sie sie, ohne das Kernsystem zu gefährden. Crodox ermöglicht es Ihnen, isolierte Module mit vollständiger Abhängigkeitsauflösung an externe Teams oder Auftragnehmer zu übergeben. Skalieren Sie Ihre Engineering-Kapazität auf Abruf."
+        },
+        "security": {
+          "title": "Enterprise-Grade-Sicherheit & Compliance",
+          "description": "Begrenzen Sie die Code-Exposition, reduzieren Sie Ihre Angriffsfläche und unterstützen Sie sichere Entwicklungsworkflows über verteilte Teams hinweg. Crodox setzt Zugriffsgrenzen auf Modulebene durch und stellt sicher, dass sensible Geschäftslogik, Zugangsdaten und Infrastruktur-Code abgeschottet bleiben."
+        },
+        "focusedQA": {
+          "title": "Gezieltes QA-Testing",
+          "description": "Testen und validieren Sie nur den relevanten Code und verbessern Sie dabei sowohl Geschwindigkeit als auch Genauigkeit. Abgegrenzte Workbenches ermöglichen es Ihrem QA-Team, gezielte Test-Suites gegen isolierte Module auszuführen."
+        },
+        "technicalDebt": {
+          "title": "Reduzierte technische Schulden",
+          "description": "Saubere, fokussierte Änderungen statt eskalierendes Legacy-Chaos. Wenn Engineers in isolierten Kontexten arbeiten, ist jede Änderung nachvollziehbar, jede Abhängigkeit explizit und jeder Merge-Back validiert. Inkrementelle Modernisierung wird zur Standardpraxis - nicht zur Ausnahme."
+        }
+      }
+    },
+    "roles": {
+      "teaser": "Für jeden Stakeholder",
+      "title": "Wer profitiert von Crodox?",
+      "description": "Ganz gleich, ob Sie Engineering leiten, Code schreiben oder für Sicherheit verantwortlich sind: Crodox wurde mit Ihrer Rolle im Fokus entwickelt.",
+      "keyBenefits": "Hauptvorteile",
+      "list": {
+        "cto": {
+          "label": "CTO / Engineering-Lead",
+          "title": "Schneller liefern, ohne die Kontrolle zu verlieren.",
+          "description": "Crodox gibt Ihnen den architektonischen Hebel, um Ihr Team zu skalieren, Arbeit auszulagern oder KI-Tooling zu integrieren - ohne Ihr Kern-IP zu gefährden. Governance, Nachvollziehbarkeit und Zugriffsgrenzen sind standardmäßig enthalten.",
+          "benefits": [
+            "Modulweite Zugriffsgrenzen für Auftragnehmer und KI-Tools",
+            "Vollständiger Audit-Trail jeder Codeänderung und externen Übergabe",
+            "Liefergeschwindigkeit erhöhen ohne Onboarding-Overhead"
+          ],
+          "cta": "Enterprise-Funktionen entdecken"
+        },
+        "developer": {
+          "label": "Entwickler",
+          "title": "Im Flow bleiben. Präzise arbeiten.",
+          "description": "Kein ständiges Wechseln des Kontexts durch einen 500-Dateien-Monolithen. Ihre Workbench zeigt genau das, was Sie brauchen - alle Abhängigkeiten automatisch aufgelöst - und KI unterstützt nur innerhalb dieses abgegrenzten Kontexts.",
+          "benefits": [
+            "Isolierte Workbenches mit automatisch aufgelösten Abhängigkeiten",
+            "KI-gestütztes Coding auf abgegrenztem, minimalem Kontext",
+            "Mit Vertrauen zurückmergen über validierte, saubere Changesets"
+          ],
+          "cta": "So funktioniert es"
+        },
+        "security": {
+          "label": "Sicherheit & Compliance",
+          "title": "Reduzierte IP-Exposition und Cyber-Angriffsfläche.",
+          "description": "Crodox verhindert, dass Drittanbieter-Beitragende und KI-Modelle jemals auf mehr Code zugreifen, als ihre Aufgabe erfordert. Exposition reduzieren, ohne die Engineering-Lieferung zu verlangsamen.",
+          "benefits": [
+            "Kein vollständiger Codebase-Zugriff für externe Beitragende oder KI-Agenten",
+            "Automatisch abgegrenzte Kontextpakete - pro Aufgabe, pro Person",
+            "Passt sich natürlich an Richtlinien des Secure Development Lifecycle (SDLC) an"
+          ],
+          "cta": "Lösungen ansehen"
+        },
+        "qa": {
+          "label": "QA-Team",
+          "title": "Effizienter testen.",
+          "description": "Erhalten Sie erstmals wirklich isolierte Testziele. Führen Sie fokussierte Test-Suites gegen spezifische Module ohne Ablenkung durch irrelevante Änderungen aus und erstellen Sie eine saubere Dokumentation, was getestet wurde.",
+          "benefits": [
+            "Abgegrenzte Testausführung gegen isolierte, eigenständige Module",
+            "Regressionen früher erkennen mit gezielter, relevanter Abdeckung",
+            "Klarer Audit-Trail jeder Änderung und des entsprechenden Testumfangs"
+          ],
+          "cta": "Use Cases erkunden"
+        }
+      }
+    },
+    "cta": {
+      "teaser": "Bereit loszulegen?",
+      "title": "Erleben Sie Crodox in Aktion.",
+      "description": "Erkunden Sie Schritt für Schritt, wie Crodox funktioniert, oder treten Sie der Warteliste bei, um zu den ersten Teams zu gehören, die es nutzen.",
+      "howItWorks": "So funktioniert es",
+      "enterpriseFeatures": "Enterprise-Funktionen"
+    }
+  },
+  "SolutionsPage": {
+    "useCase": {
+      "teaser": "Lösungen",
+      "title": "Lösungen nach Anwendungsfall",
+      "description": "Erkunden Sie, wie Crodox zentrale Entwicklungsherausforderungen unterstützt",
+      "cards": {
+        "contextAwareAI": {
+          "teaser": "Kontextbewusste KI",
+          "title": "KI-Entwicklung mit Kontext",
+          "description": "Geben Sie KI-Agenten präzisen, abgegrenzten Kontext aus Ihrer Codebase - und eliminieren Sie Halluzinationen und irrelevante Vorschläge. Crodox löst Abhängigkeitsgraphen auf, damit KI mit vollständigem Verständnis arbeitet, statt zu erraten."
+        },
+        "scalableWorkflows": {
+          "teaser": "Skalierbare Workflows",
+          "title": "Engineering in großem Maßstab",
+          "description": "Schnelleres Onboarding, reibungslosere Zusammenarbeit und sicheres Outsourcing. Dank isolierter, modulspezifischer Workbenches können neue Teammitglieder direkt loslegen, ohne sich zunächst durch die gesamte Codebase arbeiten zu müssen. Relevante Teile können sicher mit Freelancern oder KI-Agenten geteilt werden, ohne die gesamte Codebase preiszugeben."
+        },
+        "secureCode": {
+          "teaser": "Sicherer Code",
+          "title": "Cybersicherheitsrisiken reduzieren",
+          "description": "Höhere Codequalität durch isolierte Kontexte, kontrollierten Zugriff auf sensible Module und reduzierte Exposition innerhalb Ihres Software-Stacks. Angriffsflächen standardmäßig minimieren."
+        }
+      }
+    },
+    "team": {
+      "teaser": "Lösungen",
+      "title": "Lösungen nach Team",
+      "description": "Maßgeschneidert für jede Rolle in Ihrer Engineering-Organisation",
+      "cards": {
+        "engineers": {
+          "title": "Software-Engineers",
+          "description": "Sorgen Sie für transparente Struktur in Ihrer komplexen Codebase. Arbeiten Sie in isolierten, abhängigkeitsaufgelösten Workbenches, die speziell für Ihr Features oder Module erstellt werden. Beschleunigen Sie die Entwicklung mit KI, die den relevanten Kontext versteht, während sensible Bereiche Ihrer Codebase geschützt bleiben.",
+          "benefits": [
+            "Abgegrenzte Workbenches pro Feature - produktiv in Tagen statt Monaten",
+            "KI-Copilots mit realem, begrenztem Kontext für präzise Vorschläge",
+            "Human-in-the-loop-KI – Nutzung der KI, ohne Kontrollverlust",
+            "Schnellere Code-Reviews mit isolierten, fokussierten Changesets",
+            "Ausschließlich den relevanten Code testen und validieren für mehr Geschwindigkeit und Genauigkeit",
+            "Fokussierte und zielorientierte Änderungen, die technische Schulden deutlich reduzieren statt erhöhen"
+          ]
+        },
+        "management": {
+          "title": "CTOs & Engineering-Management",
+          "description": "Gewinnen Sie Sichtbarkeit und Kontrolle darüber, wie Code abgerufen, geändert und geteilt wird. Integrieren Sie KI sicher und kosteneffizient - abgegrenzte Kontexte bedeuten weniger Token, weniger Halluzinationen und prüfbare Ergebnisse. Reduzieren Sie Onboarding-Zeiten, setzen Sie Sicherheitsgrenzen und ermöglichen Sie sicheres Outsourcing – sofort produktiv.",
+          "benefits": [
+            "KI-bereite Architektur - KI-Coding aktivieren, ohne Modellen Zugriff auf das gesamte System zu geben",
+            "Sofortiges und sicheres Skalieren - Arbeit sicher auslagern oder verteilen, ohne das Kernsystem zu gefährden",
+            "Enterprise-Grade-Compliance - Exposition begrenzen, Angriffsfläche reduzieren, sichere Workflows unterstützen",
+            "Schnelleres Onboarding - Engineers und Freelancer produktiv in wenigen Tagen anstatt Monaten",
+            "Vollständiger Audit-Trail von KI-generierten Änderungen pro Modul"
+          ]
+        }
+      }
+    },
+    "industry": {
+      "teaser": "Branchen",
+      "title": "Lösungen nach Branche",
+      "description": "Maßgeschneiderte Lösungen für stark regulierte und komplexe Umgebungen",
+      "relatedLabel": "Verwandt",
+      "cards": {
+        "healthcare": {
+          "teaser": "Sicherer Code",
+          "title": "Gesundheitswesen & Life Sciences",
+          "description": "Das Gesundheitswesen verzeichnet einen Anstieg von 55% bei Cybervorfällen. Crodox reduziert Angriffsflächen durch die Isolierung sensibler Module und die Kontrolle des Zugriffs auf kritische Systeme.",
+          "relatedLinks": [
+            {
+              "title": "Largest Healthcare Data Breaches of 2025",
+              "source": "HIPAA Journal",
+              "url": "https://www.hipaajournal.com/largest-healthcare-data-breaches-of-2025/"
+            },
+            {
+              "title": "55% Surge in Healthcare Cyber Incidents in 2025",
+              "source": "Industrial Cyber",
+              "url": "https://industrialcyber.co/reports/health-isac-reports-55-surge-in-cyber-incidents-in-2025-as-attacks-rise-and-escalation-looms-in-2026/"
+            },
+            {
+              "title": "Supply Chain Cyberattacks Most Likely to Disrupt Care Delivery",
+              "source": "Healthcare IT News",
+              "url": ""
+            },
+            {
+              "title": "Five Key Flaws Exploited in 2025's Software Supply Chain Incidents",
+              "source": "Infosecurity Magazine",
+              "url": ""
+            }
+          ]
+        },
+        "ai": {
+          "teaser": "Kontextbewusste KI",
+          "title": "KI & Machine Learning",
+          "description": "LLMs halluzinieren, wenn ihnen Kontext fehlt. Studien belegen, dass Code-Generierungsmodelle häufig fehlerhafte Ausgaben erzeugen, wenn Abhängigkeitsinformationen fehlen – genau das adressiert Crodox.",
+          "relatedLinks": [
+            {
+              "title": "LLM Hallucinations in Code Generation",
+              "source": "ACM Communications",
+              "url": "https://cacm.acm.org/news/nonsense-and-malicious-packages-llm-hallucinations-in-code-generation/"
+            },
+            {
+              "title": "Hallucination in Code Generation: Taxonomy & Mitigation",
+              "source": "arXiv",
+              "url": "https://arxiv.org/abs/2504.20799"
+            },
+            {
+              "title": "Context Length Alone Hurts LLM Performance Despite Perfect Retrieval",
+              "source": "arXiv",
+              "url": ""
+            },
+            {
+              "title": "Long Context Window Does Not Mean LLMs Can Analyze Long Sequences Flawlessly",
+              "source": "ACL 2025",
+              "url": ""
+            }
+          ]
+        },
+        "finance": {
+          "teaser": "Skalierbare Workflows",
+          "title": "Finanzdienstleistungen",
+          "description": "Regulatorische Compliance erfordert kontrollierten Zugriff und Prüfbarkeit. Crodox ermöglicht sicheres Outsourcing und Zusammenarbeit unter Einhaltung der strengen Code-Grenzen, die von Finanzaufsichtsbehörden gefordert werden.",
+          "relatedLinks": [
+            {
+              "title": "DORA: Digital Operational Resilience for Financial Entities",
+              "source": "European Commission",
+              "url": "https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/implementing-and-delegated-acts/digital-operational-resilience-act_en"
+            },
+            {
+              "title": "Digital Operational Resilience: A Compliance Priority for 2025",
+              "source": "Steptoe",
+              "url": ""
+            },
+            {
+              "title": "DORA and Third-Party Risk: What Banks Must Do in 2025",
+              "source": "Fulcrum Digital",
+              "url": ""
+            },
+            {
+              "title": "Outsourcing under DORA: What Suppliers Must Do Now",
+              "source": "Shoosmiths",
+              "url": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,75 +1,32 @@
-# React + TypeScript + Vite
+# crodox-landing-page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Blog via Strapi
 
-Currently, two official plugins are available:
+The site now includes localized blog routes:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- /en/blog
+- /de/blog
+- /en/blog/[slug]
+- /de/blog/[slug]
 
-## React Compiler
+Blog data is loaded from Strapi using these environment variables:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- STRAPI_URL
+- STRAPI_API_TOKEN (optional, but recommended for private API access)
 
-## Expanding the ESLint configuration
+Example .env.local values:
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+STRAPI_URL=https://your-strapi-domain.com
+STRAPI_API_TOKEN=your_api_token
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+Expected Strapi collection type: articles
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+Recommended article fields:
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
-```
+- title (text)
+- slug (uid)
+- excerpt (text) or description (text)
+- content (rich text or long text)
+- publishedAt (datetime)
+- locale (i18n locale)
+- cover or coverImage or image (media, optional)
